@@ -35,14 +35,16 @@ Each injury record includes:
 | `date_occurred` | Date of injury (ISO format) |
 | `status` | Current status (e.g., "Rehabbing", "Recovering", "Active") |
 | `severity` | Severity level (Minor / Moderate / Major) |
-| `details` | Detailed description and context |
+| `details` | Detailed description and timeline |
 | `sources` | Verification links |
 
-### 🌟 Current Featured Players
+### 🌟 Current Featured Players (2025 Season Updates)
 
-- **Ronald Acuña Jr.** (Atlanta Braves) — Left ACL tear (2024); rehabbing, no definitive return date
-- **Mookie Betts** (Los Angeles Dodgers) — Stomach illness (2025) + lower back pain (2026); recovering/evaluating
-- **Freddie Freeman** (Los Angeles Dodgers) — Right ankle sprain + surgery (2024); recovering
+- **Ronald Acuña Jr.** (Atlanta Braves) — Tore left ACL May 2024; missed 2025 Opening Day (knee rehab). Returned May 23, 2025 — homered on first pitch after 362 days. Later dealt with hamstring strain (July-Aug) and Achilles issue (Aug). Late-September lineup dispute with manager Snitker (moved from leadoff). 2025 stats: .252/.362/.378; .331+ and 1.011 OPS over 43 games post-return.
+
+- **Mookie Betts** (Los Angeles Dodgers) — Undiagnosed stomach illness early 2025 (lost ~20-25 lbs). Missed Opening Day and Japan series. Returned March 26, 2025. Changed to shortstop; battled swing mechanics and confidence through mid-2025 (career-low .258 AVG, .732 OPS). Strong late-season rebound (.317 over final 47 games). 2025 World Series champion; clutch two-run single in Game 6 to force Game 7.
+
+- **Freddie Freeman** (Los Angeles Dodgers) — Right ankle surgery December 2024 (debridement + loose body removal). Gradual 2025 rehab; missed Tokyo Series, IL April 3-11 (ankle aggravation). Hit .376 through 30 games but suffered career-worst power slump (41-game HR drought May-June). All-Star nod. Neck stinger (Aug 27, out 2 days). 2025 World Series champion; walk-off HR in World Series Game 3 (second career WS walk-off). 2025 stats: .295/.367/.502, 147G, 24HR, 90RBI, 139 wRC+, 3.9 fWAR.
 
 ### 🤝 How to Contribute
 
