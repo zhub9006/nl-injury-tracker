@@ -33,16 +33,27 @@ Each injury record includes:
 | `type` | Injury type (e.g., "ACL tear", "Ankle sprain") |
 | `body_part` | Affected body part |
 | `date_occurred` | Date of injury (ISO format) |
+| `surgery_date` | Date of surgery if applicable (optional) |
 | `status` | Current status (e.g., "Rehabbing", "Recovering", "Active") |
 | `severity` | Severity level (Minor / Moderate / Major) |
 | `details` | Detailed description and context |
+| `rehab_note` | Additional rehab context (optional) |
+| `personal_note` | Human-interest or personal context (optional) |
 | `sources` | Verification links |
 
-### 🌟 Current Featured Players
+### ⚡ Current Featured Players (as of Oct 2025)
 
-- **Ronald Acuña Jr.** (Atlanta Braves) — Left ACL tear (2024); rehabbing, no definitive return date
-- **Mookie Betts** (Los Angeles Dodgers) — Stomach illness (2025) + lower back pain (2026); recovering/evaluating
-- **Freddie Freeman** (Los Angeles Dodgers) — Right ankle sprain + surgery (2024); recovering
+- **Ronald Acuña Jr.** (Atlanta Braves) — Left ACL tear (May 2024); second ACL surgery, rehabbing at 90-95%, expected to miss first month of 2025, no definitive return date set
+- **Mookie Betts** (Los Angeles Dodgers) — Stomach illness (Mar 2025, lost ~20 lbs) + lower back pain (Apr 2026); bounced back from worst career season (.258 AVG) to postseason resurgence; season finished .258/.732
+- **Freddie Freeman** (Los Angeles Dodgers) — Right ankle sprain + surgery (Sept 2024); re-injured in shower mishap (Mar 2025), returned with .376 AVG / 1.171 OPS; playing through daily treatment regimen
+
+### 🔄 Latest Injury Updates
+
+| Player | Injury | Latest Status | Key Date |
+|--------|--------|---------------|----------|
+| Ronald Acuña Jr. | Left ACL tear | Rehabbing — 90-95% recovery, may return late 2025 | Missing first month of 2025 |
+| Mookie Betts | Stomach illness → Back pain | Recovered from illness; batting .317 to close out 2025 season | Illness: Mar 2025 |
+| Freddie Freeman | Right ankle surgery | Active — .376 AVG despite daily treatment | Shower re-injury: Mar 31, 2025 |
 
 ### 🤝 How to Contribute
 
@@ -58,6 +69,7 @@ Each injury record includes:
 - Keep `details` fields factual and concise
 - Add new players to the `players` array following the existing schema
 - Update `metadata.last_updated` when making changes
+- Prefer machine-readable single-line JSON for `injuries.json` (run `python -m json.tool --compact` before committing)
 
 ### ⚖️ License
 
