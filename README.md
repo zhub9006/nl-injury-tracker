@@ -41,21 +41,21 @@ Each injury record includes:
 | `personal_note` | Human-interest or personal context (optional) |
 | `sources` | Verification links |
 
-### ⚡ Current Featured Players (as of Oct 2025)
+### ⚡ Current Featured NL Stars
 
-- **Ronald Acuña Jr.** (Atlanta Braves) — Left ACL tear (May 2024); second ACL surgery, rehabbing at 90-95%, expected to miss first month of 2025, no definitive return date set
-- **Mookie Betts** (Los Angeles Dodgers) — Stomach illness (Mar 2025, lost ~20 lbs) + lower back pain (Apr 2026); bounced back from worst career season (.258 AVG) to postseason resurgence; season finished .258/.732
-- **Freddie Freeman** (Los Angeles Dodgers) — Right ankle sprain + surgery (Sept 2024); re-injured in shower mishap (Mar 2025), returned with .376 AVG / 1.171 OPS; playing through daily treatment regimen
+- **Ronald Acuña Jr.** (Atlanta Braves) — Torn left ACL (May 2024, 2nd surgery); returned May 2025 after ~1 year rehab; now on IL with left hamstring strain (June 2025), may not return until after All-Star break
+- **Mookie Betts** (Los Angeles Dodgers) — Undiagnosed stomach illness (Mar 2025, lost ~20 lbs); right oblique strain (Apr 2025, missed 32 games); fractured left toe (May/Jun 2025); lower back pain (Aug 2025); post-illness resurgence in final months
+- **Freddie Freeman** (Los Angeles Dodgers) — Right ankle sprain + surgery (Sept-Dec 2024); "shower mishap" re-injury (Mar 2025, 10-day IL); returned strong at .376 AVG / 1.171 OPS; left wrist contusion (Jul 2025); neck stinger (Aug 2025); playing through daily ~1.5hr maintenance regimen
 
 ### 🔄 Latest Injury Updates
 
 | Player | Injury | Latest Status | Key Date |
 |--------|--------|---------------|----------|
-| Ronald Acuña Jr. | Left ACL tear | Rehabbing — 90-95% recovery, may return late 2025 | Missing first month of 2025 |
-| Mookie Betts | Stomach illness → Back pain | Recovered from illness; batting .317 to close out 2025 season | Illness: Mar 2025 |
-| Freddie Freeman | Right ankle surgery | Active — .376 AVG despite daily treatment | Shower re-injury: Mar 31, 2025 |
+| Ronald Acuña Jr. | Left ACL tear + Hamstring strain | Rehabbing — hamstring may keep him out through All-Star break | ACL surgery: Jun 2024; Hamstring: Jun 10, 2025 |
+| Mookie Betts | Stomach illness → Oblique → Toe → Back | Recovered from illness/toe; day-to-day with back; batting .732 OPS for season | Illness: Mar 2025; Back: Aug 4, 2025 |
+| Freddie Freeman | Ankle surgery → Shower re-injury → Wrist/Neck | Active; uses daily treatment regimen; neck stinger resolved quickly | Ankle surgery: Dec 2024; Neck stinger: Aug 27, 2025 |
 
-### 🤝 How to Contribute
+### 🔧 How to Contribute
 
 1. Fork this repository
 2. Add or update player injury data in `data/injuries.json`
