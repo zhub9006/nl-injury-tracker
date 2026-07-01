@@ -4,19 +4,19 @@
 
 A structured, open-source database tracking injuries of National League MLB players. Community contributions are welcome!
 
-### 🆕 Latest Injury Updates (August 2025)
+### 🏅 Latest Injury Updates (October 2025)
 
 | Player | Injury | Latest Status | Key Date |
 |--------|--------|---------------|----------|
-| **Ronald Acuña Jr.** | Left ACL tear + Grade 1 Left Hamstring strain | Rehabbing — hamstring may keep him out through All-Star break | ACL surgery: Jun 2024; Hamstring: Jun 10, 2025 |
-| **Mookie Betts** | Undiagnosed stomach illness → Oblique strain → Fractured toe → Lower back pain | Recovered from illness/toe; day-to-day with back; batting .330/.405/.454 since Aug. 5 | Illness: Mar 2025; Back: Aug 4, 2025 |
-| **Freddie Freeman** | Right ankle sprain + surgery → Shower re-injury → Wrist contusion → Neck stinger | Active; uses daily 1.5hr treatment regimen; neck stinger resolved quickly | Ankle surgery: Dec 2024; Neck stinger: Aug 27, 2025 |
+| **Ronald Acuña Jr.** | ACL tear (left) → Hamstring strain → Achilles issue → Late-season slump | Recovered from injuries; on IL with mental/performance slump in Sept | ACL: May 2024; Hamstring: Jul 26, 2025; Achilles: Aug 2025 |
+| **Mookie Betts** | Stomach illness → Oblique strain → Fractured toe → Lower back pain | Recovered from all injuries; career-worst regular season then playoff rebound | Illness: Mar 2025; Oblique: Apr 5, 2025; Toe: May 28, 2025; Back: Aug 4, 2025 |
+| **Freddie Freeman** | Ankle sprain + surgery → Shower re-injury → Wrist contusion → Neck stinger | Fully recovered; postseason walk-off HR hero in 2025 WS | Ankle surgery: Dec 2024; Shower: Mar 2025; Wrist: Jul 20, 2025; Neck: Aug 27, 2025 |
 
 ### ⚡ Current Featured NL Stars
 
-- **Ronald Acuña Jr.** (Atlanta Braves) — Torn left ACL (May 2024, 2nd surgery); returned May 23, 2025 after ~1 year rehab; now on IL with Grade 1 left hamstring strain (June 2025), may not return until after All-Star break. At 90-95% recovered from ACL surgery as of February 2025.
-- **Mookie Betts** (Los Angeles Dodgers) — Undiagnosed stomach illness (Mar 2025, lost ~20 lbs); right oblique strain (Apr 2025, missed 32 games); fractured left toe (May/Jun 2025); lower back pain (Aug 2025). Rediscovered form with .330/.405/.454 slash since August 5.
-- **Freddie Freeman** (Los Angeles Dodgers) — Right ankle sprain + surgery (Sept-Dec 2024); "shower mishap" re-injury (Mar 2025, 10-day IL); returned strong at .376 AVG / 1.171 OPS; left wrist contusion (Jul 2025); neck stinger (Aug 2025); playing through daily ~1.5hr maintenance regimen.
+- **Ronald Acuña Jr.** (Atlanta Braves) — Torn left ACL (May 2024, 2nd surgery); returned May 23, 2025 after ~1 year rehab; Grade 1 left hamstring strain (Jul 2025); brief Achilles issue (Aug 2025); late-season mental slump (Sept 2025). At 90-95% recovered from ACL surgery as of February 2025.
+- **Mookie Betts** (Los Angeles Dodgers) — Undiagnosed stomach illness (Mar 2025, lost ~20 lbs); right oblique strain (Apr 2025, missed 32 games); fractured left toe (May/Jun 2025); lower back pain (Aug 2025). Rediscovered form in playoffs after career-worst regular season (.258 AVG). Dodgers won 2025 World Series.
+- **Freddie Freeman** (Los Angeles Dodgers) — Right ankle sprain + surgery (Sept-Dec 2024); "shower mishap" re-injury (Mar 2025, 10-day IL); left wrist contusion (Jul 2025); neck stinger (Aug 2025). Plays through daily ~1.5hr maintenance regimen. Dodgers won 2025 World Series with walk-off HR.
 
 ### 📁 Repository Structure
 
@@ -38,8 +38,10 @@ Each player entry in `data/injuries.json` includes:
 | `name` | Full player name |
 | `team` | Current MLB team |
 | `position` | Primary position |
+| `jersey_number` | Jersey number |
+| `season_stats_2025` | Season statistics for context |
 | `injuries` | Array of injury records |
-| `sources` | Array of source URLs for verification |
+| `sources` | Verification links |
 
 Each injury record includes:
 
@@ -48,12 +50,10 @@ Each injury record includes:
 | `type` | Injury type (e.g., "ACL tear", "Ankle sprain") |
 | `body_part` | Affected body part |
 | `date_occurred` | Date of injury (ISO format) |
-| `surgery_date` | Date of surgery if applicable (optional) |
-| `status` | Current status (e.g., "Rehabbing", "Recovering", "Active") |
+| `date_returned` | Date player returned to lineup |
+| `status` | Current status (e.g., "Recovered", "Active", "Surgery Required") |
 | `severity` | Severity level (Minor / Moderate / Major) |
 | `details` | Detailed description and context |
-| `rehab_note` | Additional rehab context (optional) |
-| `personal_note` | Human-interest or personal context (optional) |
 | `sources` | Verification links |
 
 ### 🔗 How to Contribute
@@ -75,3 +75,8 @@ Each injury record includes:
 ### ⚖️ License
 
 This project is open-source and available under the MIT License.
+
+## Links
+
+- **GitHub:** https://github.com/zhub9006/nl-injury-tracker
+- **Clone:** `git clone https://github.com/zhub9006/nl-injury-tracker.git`
