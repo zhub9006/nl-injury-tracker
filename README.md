@@ -32,6 +32,20 @@ Each player entry includes:
 - **Mookie Betts** — Los Angeles Dodgers
 - **Freddie Freeman** — Los Angeles Dodgers
 
+## Latest Updates (as of July 20, 2026)
+
+| Player | Injury | Status |
+|--------|--------|--------|
+| Ronald Acuña Jr. | Left fibula fracture (suffered March 3, 2026) | On 60-day IL; rehab assignment with FCL Braves began June 23, 2026; expected return early-to-mid July 2026 |
+| Mookie Betts | Right oblique strain + non-displaced right fibula fracture (April 5, 2026) | Activated May 11, 2026; currently healthy and playing shortstop |
+| Freddie Freeman | Left ankle issues (chronic); left wrist contusion (late May 2026, resolved) | Activated off 60-day IL June 1, 2026; batting .326 with 4 HR in late-June appearances |
+
 ## License
 
 This project is open source and available for community use.
+
+## Repository Structure
+
+### Files
+- [injury-updates.json](injury-updates.json) — Full injury database in JSON format
+- [README.md](README.md) — This file
