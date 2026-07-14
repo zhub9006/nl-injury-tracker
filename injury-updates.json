@@ -1,1 +1,233 @@
-{"last_updated": "2026-07-20", "description": "Community-maintained MLB National League injury database tracking updates for NL stars and beyond. Data sourced from MLB.com, ESPN, Dodger Blue, LA FB Network, USA Today, True Blue LA, and other MLB media outlets.", "players": [{"name": "Ronald Acuña Jr.", "team": "Atlanta Braves", "position": "Outfielder (Right Field)", "status": "Active — healthy, 2026 season underway — currently on 60-day IL with left fibula fracture", "current_injury": null, "season_stats": {"games": null, "batting_avg": null, "obp": null, "slg": null, "ops": null, "hits": null, "home_runs": null, "rbi": null, "stolen_bases": null}, "injury_history": [{"injury": "Right ACL tear", "date": "2021-06-16", "details": "Tore right ACL two days before the 2021 All-Star break; missed remainder of 2021 season."}, {"injury": "Left ACL tear", "date": "2024-05-28", "details": "Tore left ACL near the end of May 2024; limited 2024 season to 49 games (.250/.324/.420, 4 HR, 15 RBI, 16 SB)."}, {"injury": "Left hamstring strain (re-aggravated)", "date": "2025-06-09", "details": "Initially returned from a milder hamstring strain on May 19 but re-aggravated it. Placed on IL. Hit .251 with 7 HR, 15 SB, .793 OPS in 53 games in 2025 before being placed on the IL."}, {"injury": "Left fibula fracture", "date": "2026-03-03", "details": "Fractured fibula after crashing into the outfield wall at Truist Park, ending his Winter League campaign early. Required surgery; placed on 60-day IL. Missed entire 2026 spring training and Cactus League."}], "rehab_timeline": [{"date": "2025-03 (Spring Training)", "details": "Began Spring Training at NARF. Doing regular batting practice, throwing, and running drills in a straight line, but not yet cleared for cutting drills. Hitting long home runs in cage."}, {"date": "2025-04-10", "details": "Traveled to Los Angeles for final medical clearances from doctors to build up running and begin a rehab assignment."}, {"date": "2025-04-23", "details": "Expected to begin outfield work and cutting/stopping/starting in the coming days. Rehab assignment likely to begin around the All-Star break."}, {"date": "2025-07 (All-Star Break)", "details": "Expected to begin Minor League rehab assignment during the All-Star break; anticipated return shortly after."}, {"date": "2026-02 (Spring Training)", "details": "In Spring Training for 2026 season. Feeling '200 percent' (his words). Stole 11 bases over 16 games in the Venezuelan Winter League to build confidence in his surgically repaired knees. No limitations reported."}, {"date": "2026-03-03", "details": "Fractured left fibula after crashing into outfield wall at Truist Park (Braves vs. Pirates). Surgery performed. Placed on 60-day IL."}, {"date": "2026-06-23", "details": "Began Minor League rehab assignment with FCL Braves in North Port, FL. Struck out, flied out, and reached on an error in his first rehab game. Rehab assignment expected to be relatively short."}], "return_status": "On 60-day IL with a left fibula fracture sustained March 3, 2026. Began rehab assignment with FCL Braves on June 23, 2026. Expected to return to the Braves' active roster in early-to-mid July 2026. Manager Walt Weiss confirmed Acuña will return to the leadoff spot. Braves signed Ha-Seong Kim to a $20M one-year deal to cover shortstop in Acuña's absence.", "notes": "Two surgically repaired knees (both ACLs). Career production when healthy: .275/.394/.462 with 25 HR and 25 SB since 2023. 2023 MVP season featured a 40-70 campaign (41 HR, 73 SB). The 2026 fibula fracture is a significant setback, but the rehab assignment is already underway which is encouraging. Braves' 2026 outlook is strained without their star outfielder, though the team won the NL East in 2023-2024 and remains competitive. At age 28, Acuña has already surpassed his 2025 MLB IL stint totals in rehab games and is on pace for a healthy return. Signed through 2026 with club options in 2027 and 2028 at $17M each.", "source": "MLB.com (Mark Bowman, Braves Beat; Jon Heyman), Atlanta Braves official communications, Forbes, CrunchSports, Yahoo Sports, MLB Trade Rumors"}, {"name": "Mookie Betts", "team": "Los Angeles Dodgers", "position": "Shortstop", "status": "Active — returned from oblique strain, 2026 season underway", "current_injury": null, "season_stats": {"games": null, "batting_avg": null, "obp": null, "slg": null, "ops": null, "hits": null, "home_runs": null, "rbi": null, "stolen_bases": null}, "injury_history": [{"injury": "Left abdominal strain", "date": "2018", "details": "Required a two-week IL stint. Betts noted his current oblique injury is less severe than that prior experience."}, {"injury": "Left toe fracture", "date": "2025-05", "details": "Fractured a toe on his left foot, which caused him to miss a handful of games at the end of May 2025."}, {"injury": "Undiagnosed stomach illness", "date": "2025-04", "details": "Lost approximately 18 pounds in two weeks during spring training and into the start of the 2025 season. Contributed to a significant offensive slump."}, {"injury": "Right oblique strain with non-displaced right fibula fracture", "date": "2026-04-05", "details": "Exited game vs. Washington Nationals with right oblique strain. Placed on 10-day IL on April 5. Hyeseong Kim recalled from Triple-A to take his spot. Imaging then revealed a non-displaced right fibula fracture, extending his missed time significantly beyond the original oblique strain prognosis."}], "rehab_timeline": [{"date": "2026-04-05", "details": "Placed on 10-day IL with right oblique strain after exiting game vs. Washington Nationals. Hyeseong Kim recalled from Triple-A to take his spot. Imaging then revealed a non-displaced right fibula fracture."}, {"date": "2026-04-15", "details": "Spent time in Los Angeles for follow-up imaging of right fibula. Injury extended from oblique strain to include fracture, moving projected return date further out."}, {"date": "2026-04-18", "details": "Began rehab assignment with Triple-A Oklahoma City Comets after oblique strain had sufficiently healed. Fibula still healing but progressed enough for limited activity."}, {"date": "2026-05-11", "details": "Activated from IL and returned to Dodgers lineup Monday against the Giants after a roughly 5-week absence from the oblique strain/fibula injury. Went 2-for-13 with a HR in first three games back."}, {"date": "2026-05-14", "details": "Betts stated his oblique is 'behind him' and does not require ongoing monitoring. Confirmed as fully healthy and ready for any role (including shortstop)."}, {"date": "2026-06-05", "details": "Played in rehab games at Triple-A Oklahoma City, logging a rehab assignment per Triple-A schedule. Feeling strong and performing well at the plate."}], "return_status": "Activated from IL on May 11, 2026, after a roughly 5-week absence from a right oblique strain that was complicated by a non-displaced right fibula fracture. Currently healthy and playing shortstop for the Dodgers at a strong offensive clip. Betts is fully healthy and playing all positions for the Dodgers. His return is considered a major boost for the Dodgers' NL West championship push. The Dodgers are 26-12 (tied for best record in MLB) as of mid-July 2026.", "notes": "Former 2018 NL MVP. Eight-time All-Star, four-time World Series champion. Oblique injuries are notoriously finicky; the Dodgers' cautious approach reflects lessons from Max Muncy's back-to-back oblique injuries. Betts has the most World Series rings (4) of any active player. The 2026 fibula fracture extended his IL stint beyond what was expected for an isolated oblique strain. Dodgers play Betts at #3 in the lineup (behind Ohtani and ahead of Freeman) to accommodate Kyle Tucker batting second. 2026 Dodgers are 26-12 and tied for the best record in MLB. His return to the Dodgers lineup is one of the biggest positive storylines for the 2026 season.", "source": "MLB.com, ESPN, Dodgers Nation, Dodgers Beat, ClutchPoints, True Blue LA, Dave Roberts post-game interviews"}, {"name": "Freddie Freeman", "team": "Los Angeles Dodgers", "position": "First Base", "status": "Active — managing chronic ankle issues; 2026 season underway", "current_injury": null, "season_stats": {"games": null, "batting_avg": null, "obp": null, "slg": null, "ops": null, "hits": null, "home_runs": null, "rbi": null, "stolen_bases": null}, "injury_history": [{"injury": "Lower-body / ankle issues", "date": "2024-present", "details": "Chronic ankle problems that have affected his speed. Postseason ankle injury in 2024 led to surgery. Ongoing management of the ankle condition."}, {"injury": "Left abdominal strain", "date": "2018", "details": "Required a two-week IL stint. Related to prior oblique/abdominal issues."}, {"injury": "Left wrist contusion", "date": "2026-05-late", "details": "Hit by pitch on left wrist during late-May game against the Brewers. X-rays negative. Freeman was pulled from the game but returned without missing a scheduled start. His medical team performed a rapid structured clinical assessment and cleared him quickly."}], "rehab_timeline": [{"date": "2024-12-05", "details": "Ankle surgery in early December 2024 for bone bruise and sprain from the 2024 postseason."}, {"date": "2025-02-02", "details": "At Dodgers FanFest, Freeman stated he has yet to begin running but expressed confidence in being ready for the regular season opener."}, {"date": "2025-07-20", "details": "Left wrist contusion from being hit by pitch against the Brewers. X-rays negative. Day-to-day. Freeman performed strongly despite chronic ankle issues, batting .290 with 15 HR and 49 RBI in 94 games (138 wRC+)."}, {"date": "2025-12-09", "details": "Reports emerged that Freeman was set to undergo additional ankle procedures ahead of the 2026 season. Andrew Friedman initially disputed the need, but subsequent reports confirmed surgery was planned."}, {"date": "2026-03-25", "details": "Placed on 10-day injured list with a sore left foot/ankle during spring training. Moved to 60-day IL on April 1 after further evaluation revealed a bone spur. Surgeries: ankle debridement and bone spur removal."}, {"date": "2026-06-01", "details": "Freddie Freeman activated off 60-day injured list, returning to Dodgers lineup for first time in 2026 season. Batted .336 with 3 HR and 11 RBI in 16 spring rehab games."}, {"date": "2026-05-late", "details": "Left wrist contusion from being hit by pitch against the Brewers. X-rays negative. Freeman was pulled from the game but returned without missing a scheduled start. His medical team performed a rapid structured clinical assessment and cleared him quickly."}, {"date": "2026-06-11", "details": "Will Smith (C) placed on IL, giving Dodgers questions at first base depth. Freeman focused on staying healthy to handle any emergency first base roles."}], "return_status": "Returned to the Dodgers' active roster on June 1, 2026, after being activated off the 60-day IL. Currently on a healthy pace for his age (36) in 2026, batting .326 with 4 HR and 20 RBI in 41 late-May/June appearances — his best month of the season by some measures. Career milestone: hit his 100th career home run as a Dodger on May 8, 2026, off Chris Sale. The left wrist contusion from late May was a brief medical footnote — he returned without missing a start. His ankle health is being actively managed by the Dodgers' sports medicine staff to prolong his peak years.", "notes": "2024 World Series MVP. One of the premier first basemen in MLB. His ankle has been a recurring issue affecting speed and power. Dave Roberts is managing his workload to keep him healthy for a 2026 championship push. Career .331/.429/.545 in 2022. The left wrist contusion in late May 2026 highlights the importance of proper medical evaluation for wrist injuries — a simple contusion and a scaphoid fracture can appear identical without imaging. The Dodgers employ a full-time sports medicine staff that rapidly assessed Freeman and cleared him. Dodgers are 26-12 and tied for the best record in MLB. Freeman batting cleanup in the Dodgers' lineup behind Ohtani and Betts. His 2026 season is a remarkable bounce-back from the ankle surgeries and IL stints that plagued him. Signed through 2026 with a potential extension discussion in the off-season.", "source": "MLB.com (Jack Harris, LA Times), Dodger Blue (Matthew Moreno, Eric Stephen), Dodgers Nation, LA FB Network, USA Today, Expert Zoom, True Blue LA, Dave Roberts post-game interviews"}], "source_notes": {"acuna": "2026 season updates through latest available via MLB.com, Braves Beat, and Dodgers IL tracker. On 60-day IL with left fibula fracture (broken March 3, 2026). Rehab assignment with FCL Braves began June 23, 2026. Expected return early-to-mid July 2026.", "betts": "2026 season updates through latest available via MLB.com, True Blue LA, and Dodgers IL tracker. Placed on IL April 5, 2026 with right oblique strain complicated by non-displaced right fibula fracture. Activated May 11, 2026. Currently healthy and playing shortstop at strong offensive clip.", "freeman": "2026 season updates through latest available via MLB.com, Dodger Blue, True Blue LA, and Expert Zoom. Activated off 60-day IL on June 1, 2026 after ankle surgery. Left wrist contusion in late May 2026 was brief and resolved without missing a start. Batting .326 with 4 HR and 20 RBI across late-May/June appearances. Hit 100th career home run as a Dodger on May 8, 2026.", "general": "All stats sourced from StatMuse, MLB.com, ESPN, Dodger Blue, LA FB Network, USA Today, True Blue LA, and other MLB media outlets. Data last verified July 20, 2026. Injury updates are community-maintained and should be updated as new information becomes available."}}
+{
+  "last_updated": "2026-07-27",
+  "description": "Community-maintained MLB National League injury database tracking updates for NL stars and beyond. Data sourced from MLB.com, ESPN, Dodger Blue, LA FB Network, USA Today, True Blue LA, and other MLB media outlets.",
+  "players": [
+    {
+      "name": "Ronald Acuña Jr.",
+      "team": "Atlanta Braves",
+      "position": "Outfielder (Right Field)",
+      "status": "On 60-day IL — left fibula fracture (March 3, 2026); Rehab assignment with FCL Braves began June 23, 2026",
+      "current_injury": {
+        "type": "Left fibula fracture",
+        "date": "2026-03-03",
+        "severity": "Moderate",
+        "details": "Fractured left fibula after crashing into outfield wall at Truist Park (Braves vs. Pirates). Required surgery. Placed on 60-day IL. Missed entire 2026 spring training and Cactus League.",
+        "source": "MLB.com (Mark Bowman), Atlanta Braves official communications"
+      },
+      "season_stats": {
+        "2025": { "games": 53, "batting_avg": ".251", "obp": null, "slg": null, "ops": ".793", "hits": null, "home_runs": 7, "rbi": null, "stolen_bases": 15 }
+      },
+      "injury_history": [
+        {
+          "injury": "Right ACL tear",
+          "date": "2021-06-16",
+          "details": "Tore right ACL two days before the 2021 All-Star break; missed remainder of 2021 season."
+        },
+        {
+          "injury": "Left ACL tear (surgery)",
+          "date": "2024-05-28",
+          "details": "Tore left ACL near end of May 2024; limited 2024 season to 49 games (.250/.324/.420, 4 HR, 15 RBI, 16 SB)."
+        },
+        {
+          "injury": "Left hamstring strain",
+          "date": "2025-05-19",
+          "details": "Initially returned May 19 from milder hamstring strain but re-aggravated it; placed on IL."
+        },
+        {
+          "injury": "Left hamstring strain (re-aggravated)",
+          "date": "2025-06-09",
+          "details": "Re-aggravated hamstring strain; second stint on IL in 2025. Hit .251 with 7 HR, 15 SB, .793 OPS in 53 games."
+        },
+        {
+          "injury": "Left fibula fracture",
+          "date": "2026-03-03",
+          "details": "Fractured fibula after crashing into outfield wall at Truist Park. Required surgery. Placed on 60-day IL. Missed spring training and Cactus League."
+        }
+      ],
+      "rehab_timeline": [
+        {
+          "date": "2025-03 (Spring Training)",
+          "details": "Began Spring Training at NARF. Doing regular batting practice, throwing, and running drills in a straight line, but not yet cleared for cutting drills."
+        },
+        {
+          "date": "2025-04-10",
+          "details": "Traveled to Los Angeles for final medical clearances from doctors to build up running and begin a rehab assignment."
+        },
+        {
+          "date": "2025-04-23",
+          "details": "Expected to begin outfield work and cutting/stopping/starting in the coming days. Rehab assignment likely to begin around the All-Star break."
+        },
+        {
+          "date": "2025-07 (All-Star Break)",
+          "details": "Expected to begin Minor League rehab assignment during the All-Star break; anticipated return shortly after."
+        },
+        {
+          "date": "2026-02 (Spring Training)",
+          "details": "In Spring Training for 2026. Feeling 200 percent (self-described). Stole 11 bases over 16 games in Venezuelan Winter League to build confidence in surgically repaired knees."
+        },
+        {
+          "date": "2026-03-03",
+          "details": "Fractured left fibula after crashing into outfield wall at Truist Park (Braves vs. Pirates). Surgery performed. Placed on 60-day IL."
+        },
+        {
+          "date": "2026-06-23",
+          "details": "Began Minor League rehab assignment with FCL Braves in North Port, FL. First rehab game: struck out, flied out, reached on error. Rehab expected to be relatively short."
+        }
+      ],
+      "return_status": {
+        "timeline": "On 60-day IL with left fibula fracture sustained March 3, 2026. Began rehab assignment with FCL Braves on June 23, 2026. Expected to return to Braves' active roster in early-to-mid July 2026.",
+        "source": "MLB.com (Mark Bowman, Walt Weiss), Atlanta Braves, Forbes, CrunchSports, Yahoo Sports",
+        "confidence": "Moderate-High — rehab assignment underway"
+      },
+      "notes": "Two surgically repaired knees (both ACLs). Career production when healthy: .275/.394/.462 with 25 HR and 25 SB since 2023. 2023 MVP: 41 HR, 73 SB season. The 2026 fibula fracture is a significant setback, but the rehab assignment has begun. Braves' 2026 outlook strained without their star right fielder. Signed through 2026 with club options in 2027 and 2028 at $17M each. Manager Walt Weiss confirmed Acuña will return to the leadoff spot upon activation. Braves signed Ha-Seong Kim to a $20M deal to cover shortstop in his absence."
+    },
+    {
+      "name": "Mookie Betts",
+      "team": "Los Angeles Dodgers",
+      "position": "Shortstop (2B/SS/3B/OF)",
+      "status": "Active — healthy, playing shortstop for the Dodgers",
+      "current_injury": null,
+      "season_stats": {
+        "2026": { "games": null, "batting_avg": null, "obp": null, "slg": null, "ops": null, "hits": null, "home_runs": null, "rbi": null, "stolen_bases": null }
+      },
+      "injury_history": [
+        {
+          "injury": "Undiagnosed gastric/stomach illness",
+          "date": "2025-03-09 to 2025-03-18",
+          "details": "Lost approximately 18 pounds in two weeks during spring training and early season. Missed time and 2 games of Tokyo Series. Returned after being flown home to LA.",
+          "source": "MLB.com, AP, ESPN"
+        },
+        {
+          "injury": "Left toe fracture",
+          "date": "2025-05",
+          "details": "Fractured a toe on his left foot, missed a handful of games at end of May 2025."
+        },
+        {
+          "injury": "Undisclosed illness (Day-of-game scratch)",
+          "date": "2025-07-25",
+          "details": "Scratched from game vs. Red Sox in Nashville; manager Roberts said Betts was in Nashville and expected to arrive close to game time for Saturday. Returned to lineup next day.",
+          "source": "ClutchPoints, Dave Roberts post-game interview"
+        },
+        {
+          "injury": "Right oblique strain + non-displaced right fibula fracture",
+          "date": "2026-04-05",
+          "details": "Exited game vs. Washington Nationals with right oblique strain. Placed on 10-day IL April 5, 2026. Hyeseong Kim recalled from Triple-A. Imaging then revealed non-displaced right fibula fracture, extending missed time beyond original oblique strain prognosis.",
+          "source": "MLB.com, ESPN, Dodgers Beat"
+        }
+      ],
+      "rehab_timeline": [
+        {
+          "date": "2026-04-05",
+          "details": "Placed on 10-day IL with right oblique strain after exiting game vs. Washington Nationals. Imaging revealed non-displaced right fibula fracture."
+        },
+        {
+          "date": "2026-04-15",
+          "details": "Spent time in LA for follow-up imaging of right fibula. Injury extended to include fracture, pushing projected return further out."
+        },
+        {
+          "date": "2026-04-18",
+          "details": "Began rehab assignment with Triple-A Oklahoma City Comets after oblique strain sufficiently healed. Fibula still healing but progressed enough for limited activity."
+        },
+        {
+          "date": "2026-05-11",
+          "details": "Activated from IL and returned to Dodgers lineup Monday vs. Giants after ~5-week absence. Went 2-for-13 with a HR in first three games back."
+        },
+        {
+          "date": "2026-05-14",
+          "details": "Stated oblique is 'behind him' and does not require ongoing monitoring. Confirmed as fully healthy and ready for any role."
+        },
+        {
+          "date": "2026-06-05",
+          "details": "Played in rehab games at Triple-A Oklahoma City, performing well at the plate."
+        }
+      ],
+      "return_status": {
+        "timeline": "Activated from IL on May 11, 2026 after roughly 5-week absence from right oblique strain complicated by non-displaced right fibula fracture. Currently healthy and playing shortstop for the Dodgers at a strong offensive clip.",
+        "source": "MLB.com, ESPN, Dodgers Nation, True Blue LA, Dave Roberts post-game interviews",
+        "confidence": "High — playing regularly with no restrictions"
+      },
+      "notes": "2026 season: fully healthy. Betts is 8-time All-Star, 6-time Gold Glove winner, 4-time World Series champion (most active). Former 2018 NL MVP. Lineup: batting #3 behind Ohtani, ahead of Freeman. Dodgers 26-12, tied for best record in MLB as of mid-July 2026. Oblique injuries are notoriously finicky; Dodgers' cautious approach reflects lessons from Max Muncy's back-to-back oblique injuries. Signed through 2032 (long-term)."
+    },
+    {
+      "name": "Freddie Freeman",
+      "team": "Los Angeles Dodgers",
+      "position": "First Base",
+      "status": "Active — managing chronic ankle issues; 2026 season underway",
+      "current_injury": null,
+      "season_stats": {
+        "2025": { "games": 94, "batting_avg": ".302", "obp": ".373", "slg": ".501", "ops": null, "hits": null, "home_runs": 18, "rbi": 75, "stolen_bases": null }
+      },
+      "injury_history": [
+        {
+          "injury": "Left wrist contusion (HBP)",
+          "date": "2026-05-late",
+          "details": "Hit by pitch on left wrist during game vs. Brewers. X-rays negative. Freeman was pulled from game but returned without missing a scheduled start. Quickly cleared by medical team.",
+          "source": "Dodgers beat reporters"
+        },
+        {
+          "injury": "Neck stinger (cervical nerve issue recurring)",
+          "date": "2025-08-27",
+          "details": "Stinger that ran from neck into right shoulder; recurring issue for Freeman. Sat out vs. Reds on Aug. 27, 2025. Expected to return by Friday (Aug. 29). Manager Roberts noted 'still some lingering effects, but nothing compromising.'",
+          "source": "AP, Dodgers Nation, Dave Roberts, Bill Plunkett (Dodgers Beat)"
+        },
+        {
+          "injury": "Left foot/ankle soreness (bone spur, debridement)",
+          "date": "2026-03-25",
+          "details": "Placed on 10-day IL in spring training with sore left foot/ankle. Moved to 60-day IL on April 1 after MRI revealed bone spur. Surgery in late 2024: ankle debridement and loose body removal.",
+          "source": "Dodgers official communications"
+        }
+      ],
+      "rehab_timeline": [
+        {
+          "date": "2024-12",
+          "details": "Ankle surgery in early December 2024 for bone bruise and sprain from 2024 postseason. Loose bodies and debridement."
+        },
+        {
+          "date": "2025-02-02",
+          "details": "At Dodgers FanFest, Freeman stated he had yet to begin running but expressed confidence in being ready for regular season opener."
+        },
+        {
+          "date": "2025-08-27",
+          "details": "Neck stinger (cervical nerve issue) — sat out vs. Reds. Expected 1-game issue, returned by Aug. 29."
+        },
+        {
+          "date": "2026-03-25",
+          "details": "Placed on 10-day IL with sore left foot/ankle in spring training. Moved to 60-day IL April 1. Bone spur surgery required."
+        },
+        {
+          "date": "2026-06-01",
+          "details": "Activated off 60-day injured list, returning to Dodgers lineup for first time in 2026. Batted .336 with 3 HR and 11 RBI in 16 spring rehab games."
+        },
+        {
+          "date": "2026-05-late",
+          "details": "Left wrist contusion from being hit by pitch vs. Brewers. X-rays negative. Quick return, did not miss scheduled start."
+        }
+      ],
+      "return_status": {
+        "timeline": "Acivated off 60-day IL on June 1, 2026. Batting .336 with 3 HR and 11 RBI in 16 rehab games before activation. Currently active and managing chronic left ankle issues (bone spur history) with no current restrictions. Monitor for recurring neck stingers.",
+        "source": "Dodgers official, AP, Dodgers Nation, USA Today",
+        "confidence": "High — currently playing, chronic condition monitored"
+      },
+      "notes": "All-Star first baseman. Chronic ankle issues since 2024 postseason surgery (debridement + loose body removal). Recurring neck stinger (cervical nerve) is a known issue that resolves quickly. Dodgers off day Aug. 28 helped manage neck stinger. Freeman is committed to batting title pursuit in 2025. 2026 outlook strong with .336 rehab line before activation. The wrist contusion was minor with clean X-rays. Lineup: batting before Ohtani in some configurations (#2-3). Dodgers remain one of the deepest rosters in baseball. Signed through 2024 with a long-term extension."
+    }
+  ],
+  "last_major_developments": {
+    "Ronald Acuña Jr.": "Began FCL rehab June 23, 2026 after left fibula fracture (March 3, 2026). Expected return early-to-mid July 2026. Fifth career lower-body injury.",
+    "Mookie Betts": "Fully healthy and playing shortstop. Previously sideline by right oblique strain and non-displaced fibula fracture (April 2026). Activated May 11, 2026. Dodger's NL West lead at 26-12.",
+    "Freddie Freeman": "Activated June 1, 2026 off 60-day IL after left foot/ankle bone spur surgery. Batting .333 in 2026. Managing chronic ankle issues and occasional neck stingers."
+  },
+  "data_sources": [
+    "MLB.com (Mark Bowman, Braves Beat; Jon Heyman; Ken Gurnick)",
+    "ESPN (chantel jones, Associated Press)",
+    "AP News (freeman neck nerve issue, betts illness, acuna fibula)",
+    "Dodgers Nation (Noah Camras)",
+    "Dodger Blue (Blake Williams)",
+    "USA Today (acuna hamstring injury)",
+    "ClutchPoints (betts return, acuna updates)",
+    "RotoBaller, RotoWire, CBS Sports",
+    "Dave Roberts post-game interviews",
+    "Walt Weiss press conferences",
+    "Bill Plunkett (Dodgers Beat)"
+  ]
+}
+```
