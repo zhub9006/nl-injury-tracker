@@ -1,0 +1,73 @@
+{
+  "last_updated": "2025-07-15",
+  "source": "MLB.com, community reports",
+  "players": [
+    {
+      "name": "Ronald Acuña Jr.",
+      "team": "Atlanta Braves",
+      "position": "RF / DH",
+      "league": "NL",
+      "injury": {
+        "type": "Left hamstring strain",
+        "date_reported": "2025-05-02",
+        "mechanism": "Running to first base on a grounder to second vs. Rockies",
+        "status": "Activated from 10-day IL; being managed day-by-day",
+        "notes": "Placed on IL on May 2, 2025. Activated ahead of series opener vs. Marlins. Manager Walt Weiss stated the club accelerated the timeline after Acuña looked good in Monday's workout. Expected to start but may have a day off initially, or be available off the bench. Pre-injury slash line: .252/.362/.378, leadoff hitter. Career-high injury history includes torn right ACL (2021) and season-ending left ACL surgery (2024)."
+      },
+      "pre_injury_stats": {
+        "games": "partial season",
+        "batting_avg": ".252",
+        "on_base_pct": ".362",
+        "slg_pct": ".378",
+        "rbis": "47 (on limited ABs)"
+      },
+      "return_timeline": "Activated ~May 2025; day-by-day management; not guaranteed everyday for first stretch",
+      "source_urls": [
+        "https://www.mlb.com/news/ronald-acuna-jr-activated-from-injured-list"
+      ]
+    },
+    {
+      "name": "Mookie Betts",
+      "team": "Los Angeles Dodgers",
+      "position": "SS / 3B",
+      "league": "NL",
+      "injury": {
+        "type": "Undiagnosed illness (severe gastrointestinal)",
+        "date_reported": "2025-03-11",
+        "mechanism": "Unknown onset; began during Cactus League finale",
+        "status": "Recovering; returned to full workouts; expected back soon",
+        "notes": "Dropped approximately 18 lbs in two weeks (from 175 to 157 lbs). Vomiting after every solid meal, tolerating only liquids (smoothies). Blood work and vital tests all came back clean. Began new anti-vomiting medication. By late March, completed full workout including hitting, grounders, and throwing, and kept down solid food. Manager Dave Roberts confirmed Betts expects to play soon. May be light for beginning of season but not out for long. Also endured death of his stepfather during this period."
+      },
+      "pre_injury_stats": {
+        "avg_weight": "175 lbs",
+        "current_weight": "157 lbs",
+        "weight_loss": "18 lbs in 2 weeks"
+      },
+      "return_timeline": "Return to play expected imminently; may be day-to-day early in season due to weight loss and deconditioning",
+      "source_urls": [
+        "https://www.mlb.com/dodgers/news/mookie-betts-battling-undiagnosed-illness"
+      ]
+    },
+    {
+      "name": "Freddie Freeman",
+      "team": "Los Angeles Dodgers",
+      "position": "1B",
+      "league": "NL",
+      "injury": {
+        "type": "Left rib discomfort (scar tissue disruption)",
+        "date_reported": "2025-03-18",
+        "mechanism": "First sustained during 2024 postseason; played through it for World Series MVP. Re-inaggravated during batting practice before Tokyo Dome debut.",
+        "status": "Returned to lineup for exhibition series; monitored on day-to-day basis",
+        "notes": "Scratched from first regular-season game at Tokyo Dome vs. Cubs (March 18, 2025). Did not play on Wednesday either. Manager Dave Roberts noted the thought was it might be scar tissue that broke up during BP. Team decided to abort game cautionarily. Freeman was replaced at first base by Kiké Hernández in the 5th inning of an exhibition game but returned to lineup on Monday. Hughes felt confident he's on his way back."
+      },
+      "pre_injury_stats": {
+        "position": "1B",
+        "prior_injury_context": "2024 postseason — played through rib injury for World Series MVP performance"
+      },
+      "return_timeline": "Day-by-day; returned for exhibition play; monitoring for re-aggravation during regular season",
+      "source_urls": [
+        "https://www.mlb.com/dodgers/news/mookie-betts-battling-undiagnosed-illness"
+      ]
+    }
+  ]
+}
