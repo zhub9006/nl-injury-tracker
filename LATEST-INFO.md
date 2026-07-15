@@ -26,6 +26,7 @@ This file contains the latest injury updates for the three National League stars
 - Manager Walt Weiss confirmed Acuña will return to the leadoff spot upon activation.
 - Missed entire 2026 spring training and Cactus League due to the fibula fracture.
 - Rehab assignment began June 23, 2026. In first game: struck out, flied out, reached on error — rehab expected to be relatively short.
+- Acuña has been hitting long batting practice home rounds during rehab and is "probably as strong as he's ever been" per manager Brian Snitker.
 
 ### Sources
 - MLB.com (Mark Bowman, Braves Beat; Jon Heyman), Atlanta Braves official communications, Forbes, CrunchSports, Yahoo Sports, AP News
@@ -36,7 +37,7 @@ This file contains the latest injury updates for the three National League stars
 
 | Field | Detail |
 |-------|--------|
-| **Current Status** | 🟢 **Active & Healthy** — playing shortstop |
+| **Current Status** | 🟢 **Active & Healthy** — playing shortstop for the Dodgers |
 | **Current Injury** | None |
 | **Last Significant Injury** | Right oblique strain + non-displaced right fibula fracture |
 | **Injury Date** | April 5, 2026 |
@@ -47,15 +48,18 @@ This file contains the latest injury updates for the three National League stars
 | **Confidence** | High — playing regularly with no restrictions |
 
 ### Key Notes
-- **Recent injury history:** Gastric/stomach illness (March 2025 — lost ~18 lbs), left toe fracture (May 2025), undisclosed illness scratch (July 2025), **right oblique strain + fibula fracture (April 2026)**.
+- **Gastric/stomach illness (Spring 2025):** Likely severe Norovirus that caused his body to feel like it was "eating itself." Lost approximately 25-30 pounds in two weeks during spring training and early season. Went through anger and sadness per his own account. Was flown home to LA, missed Spring Training and 2 games of the Tokyo Series. Made full recovery and nearly immediately returned to elite form.
+- **Left toe fracture (May 2025):** Fractured a toe on his left foot, missed a handful of games at end of May 2025.
+- **Undisclosed illness scratch (July 2025):** Day-of-game scratch vs. Red Sox in Nashville; returned to lineup the next day.
+- **Right oblique strain + fibula fracture (April 2026):** Current — his most recent significant injury. Placed on IL, imaging revealed non-displaced right fibula fracture extending the missed time.
 - 8-time All-Star, 6-time Gold Glove winner, 4-time World Series champion. 2018 NL MVP.
-- Lineup: batting #3 behind Ohtani, ahead of Freeman. To accommodate Kyle Tucker at #2.
+- Lineup: batting #3 behind Ohtani, ahead of Freeman (Kyle Tucker moved to #2).
 - Dodgers are 26-12 as of mid-July 2026, tied for best record in MLB.
 - Betts' return to the Dodgers lineup is one of the biggest positive storylines for the 2026 season.
 - Contract: Signed through 2032 (long-term).
 
 ### Sources
-- MLB.com, ESPN, Dodgers Nation, Dodgers Beat, True Blue LA, ClutchPoints, Dave Roberts post-game interviews
+- MLB.com, ESPN, Dodgers Nation, Dodgers Beat, True Blue LA, ClutchPoints, AP News, NBC News, USA Magazine, The Shadow League, Dave Roberts post-game interviews
 
 ---
 
@@ -63,26 +67,27 @@ This file contains the latest injury updates for the three National League stars
 
 | Field | Detail |
 |-------|--------|
-| **Current Status** | 🟢 **Active & Healthy** — managing chronic ankle issues (mono) |
+| **Current Status** | 🟢 **Active & Healthy** — managing chronic ankle issues (2026 season underway) |
 | **Current Injury** | None |
-| **Last Significant Injury** | Neck stinger (cervical nerve recurring issue) |
-| **Injury Date** | August 27, 2025 |
-| **Mechanism** | Stinger running from neck into right shoulder — recurring issue |
-| **Additional History** | Left ankle surgery (Dec 2024), bone spur surgery (2026 spring training), left wrist contusion (May 2026 — HBP) |
+| **Last Significant Injury** | Neck stinger (cervical nerve recurring issue); Right ankle surgery aftermath |
+| **Injury Date** | August 27, 2025 (neck stinger); December 2024 (ankle surgery) |
+| **Mechanism** | Stinger running from neck into right shoulder (recurring); Right ankle sprain in Sept 2024 (postseason) / shower slip in March 2025 |
+| **Additional History** | Right ankle debridement & loose body removal (Dec 2024); shower slip aggravation (March 2025); bone spur surgery (2026 spring training); left wrist contusion from HBP (May 2026) |
 | **Recent Status** | Activated off 60-day IL June 1, 2026 (.336 in 16 rehab games) |
 | **Current Batting** | 2025: .302/.373/.501, 18 HR, 75 RBI in 94 games (.292 avg led NL) |
 | **Confidence** | High — currently playing with no restrictions |
 
 ### Key Notes
-- **Recurring neck stinger (cervical nerve issue)** must be monitored — Freeman was scratched Aug. 27, 2025 for a one-game issue. Expected to return by Friday. Dodgers had off day to manage.
-- Chronic ankle issues from 2024 postseason injury (debridement + loose body removal in Dec 2024). Also had bone spur surgery in 2026 spring training.
+- **Right ankle (chronic):** Suffered serious sprain in September 2024 during Dodgers' home finale, played through 2024 postseason. Underwent debridement and loose body removal in December 2024. Re-aggravated ankle by slipping in the shower at home around March 30, 2025, which placed him on the 10-day IL. Also had bone spur surgery during 2026 spring training.
+- **Recurring neck stinger (cervical nerve issue):** Sat out Aug. 27, 2025 vs. Reds. Expected to return within days. Manager Roberts noted "still some lingering effects, but nothing compromising."
+- **2025 Season:** Overall health improved versus 2024. Signed a historic free agent deal making him one of the highest-paid first basemen in baseball history. Career-high World Series MVP (2024).
+- **Historic moment:** Hit the first walk-off grand slam in World Series history (Game 1, 2024) despite a sprained right ankle — because he had hospital trip earlier in day for finger injury.
 - 2026 wrist contusion (HBP vs. Brewers, late May) was minor — X-rays negative, quick return.
-- Committed to batting title pursuit in 2025 (.292 AVG led NL).
 - Lineup: batting #2-3, versatile in multi-position roles to accommodate lineup flexibility.
 - Contract: Signed through long-term extension.
 
 ### Sources
-- AP News, USA Today, ESPN, Dodgers Nation, Dodgers Beat, Bill Plunkett, Dave Roberts post-game, MLB.com
+- AP News, USA Today, ESPN, Dodgers Nation, Dodgers Beat, Bill Plunkett (Dodgers Beat), Dave Roberts post-game, MLB.com, SportsJone.com
 
 ---
 
@@ -90,24 +95,28 @@ This file contains the latest injury updates for the three National League stars
 
 | Date | Player | Event |
 |------|--------|-------|
-| March 3, 2026 | Ronald Acuña Jr. | Left fibula fracture (wall crash, surgery) |
-| April 5, 2026 | Mookie Betts | Right oblique strain + non-displaced fibula fracture (IL) |
-| May–June 2026 | Freddie Freeman | Left wrist contusion (HBP), resolved quickly |
+| Mar 3, 2026 | Ronald Acuña Jr. | Left fibula fracture (wall crash, surgery) |
+| Mar 30, 2025 | Freddie Freeman | Right ankle aggravation (shower slip); placed on 10-day IL |
+| Dec 2024 | Freddie Freeman | Right ankle surgery (debridement + loose body removal) |
+| Apr 5, 2026 | Mookie Betts | Right oblique strain + non-displaced right fibula fracture (IL) |
+| May 2025 | Mookie Betts | Left toe fracture (missed handful of games) |
+| May-late 2026 | Freddie Freeman | Left wrist contusion (HBP vs. Brewers), resolved quickly |
 | May 11, 2026 | Mookie Betts | Activated from IL, ~5 weeks missed |
-| June 1, 2026 | Freddie Freeman | Activated off 60-day IL (ankle surgery recovery) |
+| June 1, 2026 | Freddie Freeman | Activated off 60-day IL (ankle surgery recovery), .336 in 16 rehab games |
 | June 23, 2026 | Ronald Acuña Jr. | FCL rehab assignment began |
-| Mid-July 2026 | All three | Acuña expected return; Betts & Freeman active |
+| Aug 27, 2025 | Freddie Freeman | Neck stinger scratched (vs. Reds), one-game issue |
+| Mid-July 2026 | All three | Acuña expected return; Betts & Freeman active & healthy |
 
 ---
 
-## 🛠 How to Contribute
+## ⚙️ How to Contribute
 
 1. **Fork the repository** and create a new branch for your changes.
 2. **Update** `injury-updates.json` or add new player entries.
 3. **Submit a pull request** with a clear description of what changed and your source(s).
 4. If reporting a new injury, include **date**, **details**, **rehab timeline**, and **source**.
 
-## 📄 Data Format
+## 📋 Data Format
 
 See `injury-updates.json` for the full machine-readable database. Each player entry includes:
 - `name`, `team`, `position`, `status`
