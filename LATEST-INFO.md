@@ -1,110 +1,149 @@
-# NL Injury Tracker — Latest Updates
+# LATEST NL Injury Updates
 
-> Last updated: July 15, 2026
-> Sources: MLB.com, ESPN, USA Today, Dodgers Nation, Dodgers Blue, ClutchPoints, The Athletic, Braves reporting, @MarkBowmanBSB
+> **Last Updated:** 2026-07-15 | **Source:** MLB.com, ESPN, The Athletic, FOX Sports, Team Reports, Community Contributions
+
+---
 
 ## Quick Reference Table
 
-| Player | Team | Status | Current Injury | Expected Return |
-|--------|------|--------|---------------|-----------------|
-| **Ronald Acuña Jr.** | Atlanta Braves | 🟡 On 60-Day IL (Rehabbing) | Left fibula fracture (Mar 3, 2026); prior left knee issues | Early-to-mid July 2026 |
-| **Mookie Betts** | Los Angeles Dodgers | 🟡 Day-to-Day (Active) | Stiff lower back (Jul 11) + wrist soreness (Jul 2); prior oblique strain | N/A — playing with management |
-| **Freddie Freeman** | Los Angeles Dodgers | 🟢 Active & Healthy | Neck stinger (resolved Aug 2025); chronic ankle managed | N/A — currently playing |
+| Player | Team | Status Emoji | Current Issue | Est. Return | On IL? |
+|--------|------|-------------|---------------|-------------|--------|
+| **Ronald Acuña Jr.** | ATL Braves | 🟡 Rehabbing | Left fibula fracture (Mar 3, 2026) | Early-to-mid July 2026 | 60-Day IL |
+| **Mookie Betts** | LA Dodgers | 🟡 Day-to-Day | Stiff lower back (Jul 11, 2026) | Within days | No |
+| **Freddie Freeman** | LA Dodgers | 🟢 Active & Healthy | None (chronic ankle managed) | N/A | No |
 
 ---
 
-## Ronald Acuña Jr. — Atlanta Braves (OF, RF)
+## 🟡 Ronald Acuña Jr. — Atlanta Braves (OF, RF)
 
-**Status:** 🟡 On 60-Day Injured List — Rehabbing
+### Current Status
+- **On 60-Day IL** — Actively rehabbing
+- **Injury:** Left fibula fracture (non-displaced), suffered **March 3, 2026** in Spring Training
+- **Rehab Started:** April 2026
+- **Estimated Return:** Early-to-mid July 2026
 
-### Current Injury
-- **Type:** Left fibula fracture (non-displaced)
-- **Date Reported:** March 3, 2026
-- **Details:** Non-displaced fracture sustained in Spring Training 2026. On 60-day IL rehabbing. First injury-shortened season since 2023. Manager Walt Weiss hopeful for early return but fracture timeline is cautious. Acuña has been hitting long BP home runs and throwing/running in straight-line drills, but has NOT been cleared for cutting drills yet.
-- **Severity:** Moderate to severe
-- **Estimated Rehab Timeline:** Early-to-mid July 2026
+### Rehab Progress (Rehab Gate Checklist)
+| Milestone | Status |
+|-----------|--------|
+| Clearing for BP | ✅ Cleared |
+| Throwing program | ✅ Cleared |
+| Straight-line drills | ✅ Cleared |
+| **Cutting drills** | ⏳ **NOT cleared yet** |
+| MiLB rehab assignment | ⏳ Pending |
+| MLB activation | ⏳ Pending |
 
 ### Injury History
-| Date | Injury | Details | Return Status |
-|------|--------|---------|---------------|
-| Mar 3, 2026 | Left fibula fracture | Non-displaced fracture in Spring Training. On 60-day IL rehabbing. | 🔄 In Rehab - Targeting July 2026 |
-| May 2, 2025 | Left hamstring strain | Strained while running to first vs Rockies. 10-day IL, activated ahead of Marlins series. | ✅ Returned (day-to-day) |
-| Apr 28, 2025 | Left knee MCL sprain | Strained MCL during a game. Missed time but returned. | ✅ Returned |
-| Jul 30, 2025 | Grade 1 calf strain | Hobbled after scoring. 10-day IL, missed 2-3 weeks. Initial diagnosis was Achilles, MRI confirmed calf strain. | ✅ Returned |
-| Sep 2024 | Left knee meniscus tear | Torn meniscus requiring surgery. Raised long-term concerns about clutch play. | ✅ Full recovery |
-| May 2023 | Left knee bone bruise | Bone bruise and contusion. Missed time but recovered. | ✅ Returned |
+| Date | Injury | Status |
+|------|--------|--------|
+| 2026-03-03 | Left fibula fracture (non-displaced) | **Active** |
+| 2025-04 | Left knee MCL sprain | Resolved |
+| 2025-05 | Left hamstring strain | Resolved |
+| 2025-07 | Grade 1 calf strain | Resolved |
+| 2024-09 | Left knee meniscus tear (surgery) | Resolved |
+| 2023 | Left knee bone bruise | Resolved |
+| 2023-05 | Torn ACL (left knee) | Resolved |
 
-### Manager Quote (2025 calf strain era):
-> "Those calf muscles are funny, too. That's a big muscle for speed guys." — Brian Snitker
-> "He's probably as strong as he's ever been... When he comes back, we want him to be able to go. We're going to make sure he is ready to go when we do turn him loose." — Brian Snitker on Acuña's rehab
+### Pre-Injury 2025 Stats
+- **Slash line:** .252 / .362 / .378
+- OPS: .740 | 2025 was his first injury-shortened season since 2023 ACL tear
+
+### Manager Quote
+> "He's probably as strong as he's ever been... When he comes back, we want him to be able to go. We're going to make sure he is ready to go when we do turn him loose." — Brian Snitker
 
 ### Notes
-First injury-shortened season since 2023 (torn ACL). Previous knee issues make this fibula fracture particularly concerning. Pre-injury 2025 slash line was .252/.362/.378 with 47 RBIs on limited ABs.
-
-**⚠️ Rehab Gate Watch:** Acuña is NOT cleared for cutting drills yet. Must progress through: BP → live pitching → straight-line running → cutting drills → MiLB rehab assignment → MLB activation. Community should monitor Braves beat reporters (Mark Bowman) for rehab assignment updates.
+- Must progress through all Rehab Gate checkpoints before activation
+- Community should monitor Braves beat reporters for gate progression updates
+- No timeline until cutting drills are cleared
 
 ---
 
-## Mookie Betts — Los Angeles Dodgers (SS / Multi-Position)
+## 🟡 Mookie Betts — Los Angeles Dodgers (SS / Multi-Position)
 
-**Status:** 🟡 Day-to-Day (Active) — Wrist/Back Soreness Being Managed
+### Current Status
+- **Day-to-Day** — Playing but managing symptoms
+- **Primary Issue:** Stiff lower back (since July 11, 2026) — day-to-day
+- **Secondary Issue:** Right wrist soreness (resolved July 2, 2026)
+- **Est. Return:** Within days (NOT expected on IL for either issue)
 
-### Current Injury
-- **Type:** Stiff lower back (Jul 11) + right wrist soreness (Jul 2); prior oblique strain
-- **Details:** Stiff lower back causing consecutive game misses (out 3+ games). NOT expected on IL. Dave Roberts: 'He's feeling a little better.' Also had right wrist soreness before loss to A's (Jul 2) that improved after treatment. Earlier in season (Jul 1): Right oblique strain caused lineup removal and DL stint; Roberts optimistic, Betts returned.
-- **Severity:** Minor (day-to-day)
+### Daily Update (from Dodgers manager Dave Roberts)
+- **3rd consecutive game out of lineup** as of latest report
+- "He's feeling a little better. But talking to the training staff, we feel like staying away from him tonight and see how he's feeling tomorrow."
+- "I don't foresee" placing him on IL
+- Took some swings before Friday's game; unsure about drills on Saturday
+- Roberts: "He just continues to get treatment"
 
 ### Injury History
-| Date | Injury | Details | Return Status |
-|------|--------|---------|---------------|
-| Jul 11, 2026 | Stiff lower back | Consecutive game misses. Out 3+ games. Not on IL. | ✅ Day-to-Day |
-| Jul 2, 2026 | Right wrist soreness | Before loss to A's. Improved after treatment. Roberts: 'Betts wrist is feeling better.' | ✅ Resolved |
-| Jul 1, 2026 | Right oblique strain | Lineup removal (Jul 1). Returned to lineup shortly after. | ✅ Returned |
-| Jul 2025 (late) | Viral illness | Severe illness, ~20 lbs weight loss in two weeks. Also death of stepfather. | ✅ Returned |
-| Mar 2025 (approx) | Right wrist fracture | Broken right wrist in pitching machine GP accident at Camelback Ranch. Sidelined 6-8 weeks. | ✅ Returned (6-8 weeks) |
-| Jul 2025 | Right oblique strain | DL stint. Roberts optimistic. Returned to lineup. | ✅ Returned |
-| Jun 2025 | Left ankle sprain | Managed with treatment and load management. | ✅ Returned |
+| Date | Injury | Status |
+|------|--------|--------|
+| 2026-07-11 | Stiff lower back | **Active, day-to-day** |
+| 2026-07-02 | Right wrist soreness | Resolved |
+| 2026-06 | Left ankle sprain | Resolved |
+| 2025-07 | Right oblique strain | Resolved |
+| 2025-07/late | Viral illness (20 lbs weight loss) | Resolved |
+| 2025-03 | Right wrist fracture (6-8 weeks, pitching machine accident) | Resolved |
+
+### Recent Performance
+- On a **7-game hitting streak** with **.355 batting average** over last 15 games
+- Most tumultuous 2025-2026 stretch in recent memory for a star player
+- All major injuries have resolved; conservative treatment approach
+
+### Roster Impact
+- Cody Bellinger also on 10-day IL (left calf contusion, from cleat incident)
+- Zach McKinstry and Luke Raley handling right-field duties
+- Chris Taylor manning center field in Bellinger's absence
+- Dodgers claim Ashton Goudeau off waivers from Giants
 
 ### Notes
-Betts' 2025-2026 has been tumultuous — broken wrist, oblique strain (x2), severe illness, personal loss, and recurring back/wrist issues. All major injuries have resolved. On 7-game hitting streak with .355 avg over last 15 games at time of report. Conservative treatment; no IL expected for back or wrist. Community should update if recurring issues worsen.
+- NOT expected on IL for current back or wrist issues
+- Conservative approach: rest day-by-day, likely avoid DL unless setbacks
+- Community should track Roberts' post-game press conferences for daily updates
 
 ---
 
-## Freddie Freeman — Los Angeles Dodgers (1B)
+## 🟢 Freddie Freeman — Los Angeles Dodgers (1B)
 
-**Status:** 🟢 Active & Healthy (Chronic Ankle Managed; Occasional Neck Flare-ups)
+### Current Status
+- **Active & Healthy** — Playing regularly
+- **No acute injury currently**
+- **Chronic condition:** Ankle issues (managed with load management)
 
-### Current Injury
-- **Type:** Neck stinger (resolved Aug 2025); Chronic ankle (managed)
-- **Details:** No acute injury currently reported. Managing chronic left ankle with occasional flare-ups. Previous neck stinger from August 2025 has fully resolved. On Mar 18, 2025, left rib/scar tissue was re-aggravated before Tokyo Dome debut — scratched from first regular-season game at Tokyo vs Cubs.
-- **Severity:** Mild (resolved neck) / Moderate (chronic ankle managed)
+### Current Notes
+- Neck stinger (August 2025) has fully resolved
+- Chronic ankle managed through rest and load management
+- No current restrictions or IL placement
 
 ### Injury History
-| Date | Injury | Details | Return Status |
-|------|--------|---------|---------------|
-| Aug 27, 2025 | Neck stinger | Scratched vs Reds. Stinger from neck into right shoulder. Returned Friday with lingering effects. | ✅ Resolved - playing, monitored |
-| Jun 2025 | Left ankle sprain | Managed with treatment and load management. | 🔄 Playing, managed |
-| Mar 18, 2025 | Left rib/scar tissue | Re-aggravated before Tokyo Dome debut. Scratched from first regular-season game at Tokyo. Roberts: 'thought was scar tissue broke up during BP.' | ✅ Returned |
-| Aug 2025 | Neck soreness | Ongoing neck management after August stinger. | 🔄 Playing, managed |
-| Sep 25, 2024 | Right ankle sprain | Debridement + loose bodies (Dec 2024). Played through in 2024 postseason (walk-off grand slam). | ✅ Returned (played through) |
-| Aug 2024 | Left thumb contusion | Contusion. Resolved. | ✅ Returned |
+| Date | Injury | Status |
+|------|--------|--------|
+| 2025-08 | Neck stinger | Resolved |
+| 2025-08 | Left rib/scar tissue (Tokyo trip) | Resolved |
+| 2026-06 | Left ankle sprain | Resolved |
+| 2024-09 | Right ankle sprain (debridement Dec 2024) | Resolved |
+| 2024-08 | Left thumb contusion | Resolved |
+
+### Career Context
+- 2024 World Series Walk-Off Grand Slam hero
+- Chronic ankle issues require ongoing monitoring but don't currently limit playing time
+- Minor right elbow inflammation noted in some reports but not currently listed on IL
 
 ### Notes
-Chronic ankle issues need ongoing monitoring (left ankle Jun 2025, right ankle Dec 2024 surgery). Freeman's walk-off Grand Slam in 2024 WS is legendary despite injury challenges. Track Dodgers beat reporters for lineup changes.
+- Community should monitor for any reports of ankle soreness flare-ups
+- Currently one of the most durable and active NL first basemen
 
 ---
 
-## How to Contribute
+## How to Update This File
 
-1. **Fork** the repository and create a new branch for your changes.
-2. **Update** `injury-updates.json` (machine-readable) and/or `LATEST-INFO.md` (human-readable).
-3. **Submit a pull request** with date, details, rehab timeline, return status, and source URL.
-4. Cross-reference with official sources: MLB.com, team PRs, beat reporters.
+1. **Fork** the repo and create a new branch
+2. **Edit** this file with the latest injury information
+3. **Submit a PR** with a clear description and source attribution
+4. For new injuries, include: **date**, **details**, **rehab timeline**, **return status**, and **source**
 
-## Repository Structure
+## Data Sources
+- [MLB.com Injury Tracker](https://www.mlb.com/injuries)
+- [ESPN Injury Report](https://www.espn.com/mlb/injuries)
+- Team beat reporters and press conferences
+- Community contributions via PRs
 
-- `injury-updates.json` — Full machine-readable JSON database
-- `nl-injury-updates.json` — Simplified JSON summary for quick consumption
-- `LATEST-INFO.md` — Human-readable summaries with quick-reference tables and detailed timelines
-- `DETAILED-UPDATES.md` — Extended supplementary detail with career injury timelines
-- `README.md` — Project overview and contribution guidelines
+## License
+Open source — community maintained. Always cross-reference with official sources.
