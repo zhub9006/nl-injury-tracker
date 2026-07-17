@@ -1,8 +1,8 @@
 # NL Injury Tracker — Latest Updates
 
-> **Last updated:** July 16, 2026
-> **Sources:** MLB.com, ESPN, USA Today, NBC Sports, MLB Injury Report, FantraxHQ, Dodgers Nation, Dodger Blue, ClutchPoints, SI.com, @MarkBowmanBSB, Dave Roberts pressers, Walt Weiss pressers
-> **Research date:** July 16, 2026 — Updated with latest FCL rehab data for Acuña, post-viral Betts timeline, and Freeman neck stinger resolution.
+> **Last updated:** July 17, 2026
+> **Sources:** MLB.com, ESPN, USA Today, NBC Sports, MLB Injury Report, FantraxHQ, Dodgers Nation, Dodger Blue, ClutchPoints, SI.com, LAFB Network, AP News, Sporting News, RotoWire, The Athletic, Mark Bowman (Braves Beat), @MarkBowmanBSB, Dave Roberts pressers, Walt Weiss pressers
+> **Research date:** July 17, 2026 — Updated with latest FCL rehab data for Acuña, post-viral Betts timeline (beating streak), and Freeman neck stinger resolution.
 
 ---
 
@@ -10,7 +10,7 @@
 
 | Player | Team | Status | Current Injury | Expected Return |
 |--------|------|--------|---------------|-----------------|
-| **Ronald Acuña Jr.** | Atlanta Braves | 🟡 On 60-Day IL (Rehabbing) | Left hamstring strain (2nd this season); left fibula non-displaced fracture (Mar 3, 2026). FCL rehab — hit grand slam as DH. NOT cleared for cutting drills or outfield yet. | Early-to-mid July 2026 |
+| **Ronald Acuña Jr.** | Atlanta Braves | 🟡 On 60-Day IL (Rehabbing) | Left hamstring strain (2nd this season); left fibula non-displaced fracture (Mar 3, 2026). FCL rehab — hit grand slam as DH. NOT cleared for cutting drills or outfield yet. | Early-to-mid July 2026 ⚠️ |
 | **Mookie Betts** | Los Angeles Dodgers | 🟡 Day-to-Day (Active) | Stiff lower back (Jul 11); right wrist soreness resolved. Post-viral fatigue (late Jul 2025 — ~25 lbs loss, stepfather's death). 7-game hit streak (.355 avg). | Within days (NOT IL) |
 | **Freddie Freeman** | Los Angeles Dodgers | 🟢 Active & Healthy | Neck stinger resolved (Aug 2025). Chronic ankle managed. No acute injury. | N/A — playing regularly |
 
@@ -46,13 +46,13 @@
 | Jun 2021 | Right ACL tear | Surgery during 2021 WS. | ✅ Returned |
 
 ### Manager Quotes
-> *"He's probably as strong as he's ever been... When he comes back, we want him to be able to go. We're going to make sure he is ready to go when we do turn him loose."* — Walt Weiss
+> *"He's probably as strong as he's ever been... When we turn him loose, we want him to be ready to go."* — Walt Weiss
 
-### Latest Notes (July 2025/FCL Rehab)
+### Latest Notes (FCL Rehab)
 - Cleared for BP, throwing, straight-line drills — **NOT** cutting drills or outfield work yet
 - Grand slam in FCL rehab was his first hit since starting rehab
 - Only serving as DH; no baserunning yet
-- Teammates Ha-Seong Kim (finger) also in FCL rehabbing
+- Teammate Ha-Seong Kim (finger inflammation) also in FCL rehabbing
 - Andrew McCutchen joined FCL on minor-league contract, batting 3rd behind Acuña
 - Home Run Derby availability is in jeopardy
 
@@ -77,11 +77,12 @@
 ### Injury History
 | Date | Injury | Details | Return Status |
 |------|--------|---------|---------------|
-| Jul 11, 2025 | Stiff lower back | Day-to-day; out 3+ games. NOT IL. | 🔄 Day-to-Day |
-| Jul 2, 2025 | Right wrist soreness (resolved) | Resolved after treatment. | ✅ Resolved |
-| Jul 2025 | Viral illness (~25 lbs loss) | Undiagnosed virus. Inability to eat. Death of stepfather. Manager: "turned a corner." | ✅ Recovering |
+| Jul 11, 2026 | Stiff lower back | Day-to-day; out 3+ games. NOT IL. | 🔄 Day-to-Day |
+| Jul 2, 2026 | Right wrist soreness (resolved) | Resolved after treatment. | ✅ Resolved |
+| Jul 2025 | Viral illness (~25 lbs loss) | Undiagnosed virus. Inability to eat. Death of stepfather. Manager: "turned a corner." | ✅ Recovered |
 | Jul 2025 | Right oblique strain (10-day IL) | Placed on IL ~5 weeks. Activated after 2 rehab games (OKC). | ✅ Returned |
 | Spring 2025 | Right wrist fracture (pitching machine accident) | Camelback Ranch freak injury. Sidelined 6-8 weeks. | ✅ Returned |
+| 2025 | Right oblique strain (2nd) | Placed on IL again later in season. | ✅ Returned |
 | Jun 2025 | Left ankle sprain | Managed with treatment and load management. | ✅ Returned |
 | 2024-06 | Right lower back strain | Resolved. | ✅ Returned |
 
@@ -91,7 +92,7 @@
 > *"He feels great. Expects to play. Right now we're in a good spot."* — Dave Roberts
 
 ### Latest Notes (Post-Viral & Back)
-- On a 7-game hitting streak (.355 avg over last 15 games)
+- On a 7-game hitting streak (.355 avg over last 15 games) — **clinically hot**
 - Resumed full workout at Dodger Stadium
 - New medication helping with stomach/gut issues
 - Lineup: Freeman→2nd, Tucker→4th, Betts→3 (after oblique return)
@@ -105,7 +106,7 @@
 **Status:** 🟢 Active & Healthy (Chronic ankle managed)
 
 ### Current Injury
-- **Type:** No acute injury currently. Neck stinger (resolved Aug 2025). Chronic ankle managed.
+- **Type:** No acute injury currently. Neck stinger (resolved Aug 2025). Chronic ankle managed. Left rib/scar tissue (March 2025 — resolved).
 - **Date Reported:** August 27, 2025 (neck stinger)
 - **Details:** Out vs. Cincinnati Reds on Wednesday, Aug. 27 with a neck stinger that went from his neck into his right shoulder. Was scratched from the lineup. Scraped back in Friday with no lingering effects.
 
@@ -143,7 +144,7 @@
 
 | Metric | Acuña | Betts | Freeman |
 |--------|-------|-------|---------|
-| Current Status | 🟡 On 10-day IL | 🟡 Day-to-Day | 🟢 Active |
+| Current Status | 🟡 On 60-Day IL | 🟡 Day-to-Day | 🟢 Active |
 | Acuity Today | Acute (recurring hamstring; fracture rehab) | Low-grade (back stiffness; post-viral fatigue) | None (neurological/ankle resolved) |
 | Injury Pattern | Left-side recurring cycle | Multi-body, acute events | Chronic ankle; episodic neck |
 | Est. Games Missed | Full 2025-2026 season (likely) | 0–3 (if any) | 0 |
@@ -166,9 +167,6 @@
 | `INJURY-DATA.json` | Primary machine-readable JSON injury database (edit for data updates) |
 | `nl-injury-updates.json` | Simplified JSON summary for quick consumption by apps/scripts |
 | `LATEST-INFO.md` | Human-readable summaries and quick reference (edit for status changes) |
-| `DETAILED-UPDATES.md` | Extended career injury timelines and supplementary data |
+| `DETAILED-UPDATES.md` | Extended career injury timelines |
 | `CONTRIBUTING.md` | Community contribution guidelines and format standards |
-| `README.md` | Project overview and contribution guidelines |
-
-## License
-This project is open source and available for community use.
+| `README.md` | Overview, purpose, and contribution guide |
