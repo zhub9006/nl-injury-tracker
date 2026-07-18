@@ -5,7 +5,7 @@ A community-maintained MLB National League injury database, tracking updates for
 ## Purpose
 This repository serves as a central, community-editable resource for tracking injury updates on National League players. It is designed to be kept up-to-date by contributors, providing a reliable historical and current record of player health statuses, injury timelines, and return information.
 
-## Quick Reference — Latest Updates (July 15, 2026)
+## Quick Reference — Latest Updates (July 2026)
 
 | Player | Team | Status | Current Injury | Expected Return |
 |--------|------|--------|---------------|-----------------|
@@ -17,26 +17,26 @@ This repository serves as a central, community-editable resource for tracking in
 
 ### Ronald Acuña Jr. — Atlanta Braves (OF, RF)
 - **Status:** 🟡 On 60-Day IL — Rehabbing. Cleared for BP/throwing/straight-line drills. **NOT cleared for cutting drills yet.**
-- **Current:** Left fibula fracture (non-dislocated), suffered Mar 3, 2026 in Spring Training
+- **Current:** Left fibula fracture (non-dislocated), suffered Mar 3, 2026 in Spring Training. Hit grand slam in 3rd FCL rehab game (423 ft, 112.8 mph). Only DH — no outfield work.
 - **Est. Return:** Early-to-mid July 2026
 - **History:** Left knee MCL sprain (Apr 2025), Left knee meniscus tear (Sep 2024, surgery), Left knee bone bruise (2023), Left hamstring strain (May 2025), Grade 1 calf strain (Jul 2025)
 - **Pre-injury 2025 slash:** .252/.362/.378
 - **Note:** First injury-shortened season since 2023 torn ACL. Rehab started Apr 2026. **Rehab Gate:** Must progress through BP → live pitching → straight-line running → cutting → MiLB rehab → MLB activation.
-- **Manager Quote:** "He's probably as strong as he's ever been... When he comes back, we want him to be able to go. We're going to make sure he is ready to go when we do turn him loose." — Brian Snitker
+- **Manager Quote:** *"He's probably as strong as he's ever been... When he comes back, we want him to be able to go. We're going to make sure he is ready to go when we do turn him loose."* — Walt Weiss
 
 ### Mookie Betts — Los Angeles Dodgers (SS / Multi-Position)
 - **Status:** 🟡 Day-to-Day (Active). NOT expected on IL for any current issues.
-- **Current:** Stiff lower back (Jul 11, day-to-day); Right wrist soreness (resolved Jul 2)
+- **Current:** Stiff lower back (Jul 11, day-to-day); Right wrist soreness (resolved Jul 2). Post-viral fatigue (late Jul 2025 — ~25 lbs loss). On 7-game hitting streak (.355 avg over last 15)
 - **Est. Return:** Within days (NOT expected on IL for either issue)
-- **History:** Right wrist fracture (Mar 2025 — 6-8 weeks, pitching machine accident), Right oblique strain (Jul 2025), Viral illness (late Jul 2025 — 20 lbs loss), Left ankle sprain (Jun 2025)
-- **Recent:** On 7-game hitting streak with .355 avg over last 15 games
+- **History:** Right wrist fracture (Mar 2025 — 6-8 weeks, pitching machine accident), Right oblique strain (Jul 2025), Viral illness (late Jul 2025 — 25 lbs loss), Death of stepfather (personal leave), Left ankle sprain (Jun 2025)
+- **Recent:** 7-game hitting streak with .355 avg over last 15 games
 - **Note:** Most tumultuous stretch in recent memory for a star player. All major injuries resolved. Conservative treatment; no IL expected for back or wrist.
 
 ### Freddie Freeman — Los Angeles Dodgers (1B)
 - **Status:** 🟢 Active & Healthy. Chronic ankle managed with load management.
 - **Current:** No acute injury. Neck stinger (Aug 2025) resolved. Chronic ankle managed.
 - **Est. Return:** N/A — currently playing regularly
-- **History:** Neck stinger (Aug 2025), Left rib/scar tissue (Mar 2025 — Tokyo), Left ankle sprain (Jun 2025), Right ankle sprain (Sep 2024 — debridement Dec 2024), Left thumb contusion (Aug 2024)
+- **History:** Neck stinger (Aug 2025), Left rib/scar tissue (Mar 2025 — Tokyo), Left ankle sprain (Jun 2025), Right ankle sprain (Sep 2024 — debridement Dec 2024), Leftt thumb contusion (Aug 2024)
 - **Note:** Chronic ankle issues require ongoing monitoring. Walk-Off Grand Slam in 2024 WS legend despite injuries.
 
 ---
@@ -58,6 +58,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines, dat
 | `INJURY-DATA.json` | Machine-readable JSON | **Primary data file** — Full structured injury database with current status, injury history, rehab timelines, and sources |
 | `nl-injury-updates.json` | Simplified JSON | Lightweight JSON summary for quick consumption by apps/scripts |
 | `LATEST-INFO.md` | Human-readable | Current injury updates with quick-reference tables and detailed timelines |
+| `RESEARCH-UPDATES.md` | Human-readable | **Research-based detailed updates** with latest sources, rehab gate progress, and cross-player comparison |
 | `DETAILED-UPDATES.md` | Human-readable | Extended career injury timelines and supplementary data |
 | `CONTRIBUTING.md` | Documentation | Community contribution guidelines and format standards |
 
@@ -66,6 +67,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines, dat
 - 📄 `INJURY-DATA.json` — Primary machine-readable injury database (edit this for data updates)
 - 📄 `nl-injury-updates.json` — Simplified JSON summary
 - 📄 `LATEST-INFO.md` — Human-readable summaries and quick reference (edit for status changes)
+- 📄 `RESEARCH-UPDATES.md` — Research-based detailed updates with latest source references
 - 📄 `DETAILED-UPDATES.md` — Extended career injury timelines
 - 📄 `CONTRIBUTING.md` — Community contribution guidelines and format standards
 - 📄 `README.md` — This file
