@@ -1,4 +1,4 @@
-# 🏥 NL Injury Tracker — Initial Research Data
+# NL Injury Tracker — Initial Research Data
 
 > **Research Date:** July 18, 2026  
 > **Players Tracked:** Ronald Acuña Jr., Mookie Betts, Freddie Freeman  
@@ -69,6 +69,7 @@
 - Spencer Strider on IL (elbow inflammation)
 - Home Run Derby availability uncertain
 - Braves may need 1B/OF bench help while Acuña is out
+- **Player quote on patience:** "I think [I'm] going to be patient." — Acuña on taking his time returning safely
 
 #### Source URLs of Record
 - MLB.com Braves Injuries: https://www.mlb.com/news/braves-injuries-and-roster-moves
@@ -199,45 +200,41 @@ Betts experienced an unprecedented combination in 2025: broken wrist (pitching m
 - **Betts**: Day-to-day, hit streak, no IL expected
 - **Freeman**: Active, load-managed ankle, no IL
 - **Tommy Edman**: Recovering from sprained right ankle (1 month on IL); BP started; rehab assignment pending
-- **Max Muncy**: Grade 1 right oblique strain (mid-August); missed; bronchitis delayed rehab; target rehab weekend but delayed by illness
-- **Alex Call**: Sacroiliac issue; pinch-hit and returned; SNF team return goal
-- **Will Smith**: No major injury concerns
+- **Max Muncy**: Grade 1 right oblique strain (mid-August); missed; bronchitis delayed return
+- **Manny Machado**: Left groin strain — IL June 29; strapped at BP
 
 ---
 
-## Data Structure & Contribution Guidelines
+## How to Contribute
 
-### How to Update This Initial Data File
-1. **Fork the repo** and create a branch (e.g., `update-july-2026`)
-2. **Edit** `nl-injury-updates.json` (machine-readable) and/or `INITIAL-DATA.md` (human-readable)
-3. **Submit a PR** with clear description and validated JSON
-4. **Cross-reference** with official sources (MLB.com, team press releases, recognized beat reporters)
-5. **Update** the `last_updated` and `research_date` fields in JSON
-6. **Add** new injury_history entries in chronological order (most recent first)
+1. **Fork the repository** and create a new branch for your changes.
+2. **Update or add** injury data in `INJURY-DATA.json` (machine-readable) and/or `LATEST-INFO.md` (human-readable).
+3. **Submit a pull request** with a clear description of what was changed and why.
+4. If reporting a new injury, include the **date**, **details**, **rehab timeline**, **return status**, and **source** where available.
+5. **Always cross-reference** with official sources: MLB.com, team press releases, and recognized beat reporters.
 
-### Required Fields Per Player
-- `name, team, position, league, jersey_number`
-- `current_status, status_color`
-- `current_injury (types, date_suffered, mechanism, severity, details)`
-- `pre_injury_stats`
-- `rehab_timeline (gates, dates, return target)`
-- `injury_history (array of objects)`
-- `notes, latest_update (date, event, source), source_urls`
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed contribution guidelines, data format standards, and player-specific watch items.
 
-### Color Code Legend
-- 🟢 **Green** = Active & Healthy, no IL expected
-- 🟡 **Yellow** = Day-to-Day / Rehabbing (active roster but managing injury)
-- 🔴 **Red** = Out on IL (placed on 10/15/60-day IL)
+## Repository Structure
 
----
+| File | Type | Description |
+|------|------|-------------|
+| `INJURY-DATA.json` | Machine-readable JSON | **Primary data file** — Full structured injury database with current status, injury history, rehab timelines, and sources |
+| `nl-injury-updates.json` | Simplified JSON | Lightweight JSON summary for quick consumption by apps/scripts |
+| `LATEST-INFO.md` | Human-readable | Current injury updates with quick-reference tables and detailed timelines |
+| `RESEARCH-UPDATES.md` | Human-readable | **Research-based detailed updates** with latest sources, rehab gate progress, and cross-player comparison |
+| `DETAILED-UPDATES.md` | Human-readable | Extended career injury timelines and supplementary data |
+| `CONTRIBUTING.md` | Documentation | Community contribution guidelines and format standards |
 
-## Repository Info
+## Players Currently Tracked
 
-- **GitHub:** https://github.com/zhub9006/nl-injury-tracker
-- **Clone:** `git clone https://github.com/zhub9006/nl-injury-tracker.git`
-- **License:** Open Source — community-maintained
-- **Data Files:** `nl-injury-updates.json`, `INJURY-DATA.json`, `LATEST-INFO.md`, `RESEARCH-UPDATES.md`
+| Player | Team | Position | League |
+|--------|------|----------|--------|
+| Ronald Acuña Jr. | Atlanta Braves | RF / DH | NL |
+| Mookie Betts | Los Angeles Dodgers | SS / 3B / OF | NL |
+| Freddie Freeman | Los Angeles Dodgers | 1B | NL |
 
----
+Want to add more players? Fork the repo and submit a PR with their injury data in `INJURY-DATA.json`.
 
-*This initial research was compiled on July 18, 2026, incorporating the latest FCL rehab data for Acuña, post-viral Betts timeline, and Freeman neck stinger resolution. Data will be updated as the rehab gates progress and new injury situations develop.*
+## License
+This project is open source and available for community use.
