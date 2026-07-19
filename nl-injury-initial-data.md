@@ -1,8 +1,8 @@
-# 🏟️ NL Injury Tracker — Initial Data File
+# ⚾ NL Injury Tracker — Initial Data File
 
-> **Last Updated:** July 18, 2026  
-> **Players Tracked:** Ronald Acuña Jr., Mookie Betts, Freddie Freeman  
-> **Repository:** [zhub9006/nl-injury-tracker](https://github.com/zhub9006/nl-injury-tracker)  
+> **Last Updated:** July 18, 2026
+> **Players Tracked:** Ronald Acuña Jr., Mookie Betts, Freddie Freeman
+> **Repository:** [zhub9006/nl-injury-tracker](https://github.com/zhub9006/nl-injury-tracker)
 > **Data Format:** Human-readable Markdown (also see `nl-injury-initial-data.json` for machine-readable JSON)
 
 ---
@@ -21,7 +21,7 @@
 
 ### Status: 🟡 On 60-Day IL — Rehabbing at Triple-A Gwinnett
 
-- **Hamstring:** Grade 1 left hamstring strain (2nd occurrence). First in May 2025, second on June 9, 2025 (running to 1st). Placed on 10-day IL June 10. On FCL rehab since July 2025. Moved to 60-day IL mid-season.
+- **Hamstring:** Grade 1 left hamstring strain (2nd occurrence). First in May 2025, second on June 9, 2025 (running to 1st). Placed on 10-day IL June 10. Moved to 60-day IL mid-season.
 - **Fibula:** Left fibula non-displaced fracture, suffered March 3, 2026 in Spring Training. On 60-day IL. Rehab started April 2026.
 - **Grand Slam:** Hit a grand slam in his 3rd FCL rehab game — 423 ft, 112.8 mph exit velocity. Went 0-for-3 with a walk and **5 RBIs** as DH only.
 - **Gwinnett:** Braves transferred Acuña to Triple-A Gwinnett on July 17, 2026 for rehab assignment. Slated to play July 18-19.
@@ -88,10 +88,13 @@
 |------|--------|---------------|
 | Jul 11, 2026 | Stiff lower back (day-to-day) | 🟡 Day-to-Day |
 | Jul 2, 2026 | Right wrist soreness | ✅ Resolved |
-| Apr 10, 2026 | Right oblique strain | ✅ Return (2 OKC games) |
+| Apr 10, 2026 | Right oblique strain | ✅ Return (2 OKC rehab games) |
 | Late Jul 2025 | Viral illness (~25 lbs loss) | ✅ Returned |
 | Jul 2025 | Death of stepfather | N/A — personal leave |
 | Mar 2025 | Right wrist fracture | ✅ Returned (6-8 wks) |
+| 2025 | Right oblique strain (2nd) | ✅ Returned |
+| 2025 | Fractured 4th toe, left foot (lingered) | ✅ Played through |
+| Jun 2025 | Left ankle sprain | ✅ Managed |
 
 ### Freddie Freeman
 | Date | Injury | Return Status |
