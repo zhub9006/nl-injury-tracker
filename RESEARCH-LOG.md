@@ -2,6 +2,49 @@
 
 ---
 
+## Research Entry — July 19, 2026 (Latest Update)
+
+### Background
+Consolidated latest injury intelligence from MLB.com Injury Report. Key update: **Acuña nearing possible return on upcoming Braves homestand.** This move from "early-to-mid July" to "nearing homestand return" reflects strong rehab progress.
+
+### Ronald Acuña Jr. (Atlanta Braves)
+| Source | Key Finding |
+|--------|-------------|
+| MLB.com Injury Report | Acuña nearing possible return on Braves homestand; Smith-Shawver likely needs another rehab start |
+| MLB.com Braves Beat (Mark Bowman) | Acuña hits grand slam in 3rd FCL rehab game (423 ft, 112.8 mph); "hitting ridiculously long BP home runs" |
+| MLB.com | Acuña transferred to Triple-A Gwinnett July 17 for rehab stint; slated to play July 18-19 |
+| Walt Weiss (Manager) | "He's probably as strong as he's ever been... we want him to be ready to go" |
+
+**Key Update (Jul 19):**
+- Acuña nearing possible return on upcoming Braves homestand ⚠️
+- Grand slam in 3rd FCL rehab game shows power returning
+- **Still NOT cleared for cutting drills** — remains the critical rehab gate
+- Transferred to Triple-A Gwinnett July 17; rehab games July 18-19
+- Forwards timeline from "early-to-mid July" to "possible homestand return"
+
+### Mookie Betts (Los Angeles Dodgers)
+| Source | Key Finding |
+|--------|-------------|
+| Dodger Blue | Back stiffness day-to-day; NOT IL expected |
+| Dave Roberts (Manager) | "He's feeling a little better. Right now we're in a good spot — we're just managing day-to-day." |
+
+**Key Update (Jul 19):**
+- No change from previous entry; day-to-day management continues
+- 7-game hitting streak (.355 avg over last 15) confirms physical recovery
+- No IL expected for back or wrist
+
+### Freddie Freeman (Los Angeles Dodgers)
+| Source | Key Finding |
+|--------|-------------|
+| MLB.com Injury Report | No recent update on Freeman — remains active and healthy |
+
+**Key Update (Jul 19):**
+- No change; active and playing regularly
+- Chronic ankle managed via load management
+- No acute issues
+
+---
+
 ## Research Entry — July 19, 2026
 
 ### Background
@@ -61,3 +104,5 @@ Performed fresh research on Acuña, Betts, and Freeman to consolidate the latest
 - Established baseline for all three players
 - Acuña knee/hamstring cycle, Betts illness + oblique + broken wrist + personal loss, Freeman limited ankle/rib/neck issues
 - All three now represented in repository with full structured JSON and human-readable MD files
+
+---
