@@ -1,0 +1,29 @@
+# .gitignore for NL Injury Tracker
+
+# Data files
+nl-injury-initial-data.json
+SEED-DATA.json
+injury-updates.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
