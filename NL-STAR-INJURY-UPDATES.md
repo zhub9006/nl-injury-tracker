@@ -1,6 +1,6 @@
-# 🏥 NL Star Injury Updates — Consolidated
+# 🏟️ NL Star Injury Updates — Consolidated
 
-> **Last researched:** July 2025 query · **Repo data current as of:** July 19, 2026
+> **Last researched:** July 20, 2026 · **Repo data current as of:** July 20, 2026
 > **Players tracked:** Ronald Acuña Jr., Mookie Betts, Freddie Freeman
 
 ---
@@ -77,4 +77,4 @@
 
 ---
 
-*This data was compiled from MLB.com, ESPN, USA Today, Dodger Blue, SI.com, APA News, Sporting News, RotoWire, The Athletic, team beat reporters, and manager press conferences. Community contributors should cross-reference with official sources before updating.*
+*This data was compiled from MLB.com, ESPN, USA Today, Dodger Blue, SI.com, AP News, Sporting News, RotoWire, The Athletic, team beat reporters, and manager press conferences. Community contributors should cross-reference with official sources before updating.*
