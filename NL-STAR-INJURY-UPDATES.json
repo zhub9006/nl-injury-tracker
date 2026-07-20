@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "database_name": "NL Injury Tracker — Star Player Updates",
+    "description": "Community-maintained MLB injury database tracking National League stars. Initial data file compiled from latest reports.",
+    "last_updated": "2026-07-19",
+    "version": "1.0.0",
+    "players_tracked": 3,
+    "sources_used": [
+      "MLB.com",
+      "ESPN",
+      "Dodger Blue",
+      "SI.com",
+      "Sporting News",
+      "Forbes",
+      "Yahoo Sports",
+      "MLB.com Braves Beat",
+      "Dave Roberts pressers",
+      "Walt Weiss pressers"
+    ]
+  },
+  "players": {
+    "ronald-acuna-jr": {
+      "name": "Ronald Acuña Jr.",
+      "team": "Atlanta Braves",
+      "position": "RF / DH",
+      "status": "On Rehab Assignment (Triple-A Gwinnett)",
+      "status_color": "yellow",
+      "current_injury": {
+        "type": "Left hamstring strain (Grade 1, 2nd occurrence); left fibula non-displaced fracture (resolved)",
+        "date_reported": "2025-06-09 (hamstring); 2026-03-03 (fibula)",
+        "mechanism": "Hamstring: strained running to first base vs. White Sox. Fibula: non-displaced fracture suffered in Spring Training (Mar 3, 2026).",
+        "severity": "Moderate — hamstring recurring; fibula fracture fully resolved",
+        "details": "Left hamstring strain placed on 10-day IL on June 9, 2025. After extensive FCL rehab and cleared for all rehab gates, Acuña has progressed to Triple-A Gwinnett. Fibula fracture rehab started April 2026 and is now complete. All rehab gates cleared."
+      },
+      "rehab_timeline": {
+        "fcl_rehab_start": "2025-07",
+        "fibula_rehab_start": "2026-04",
+        "triple_a_start": "2026-07-18",
+        "estimated_mlb_return": "2026-07-22 to 2026-07-23",
+        "rehab_gates": [
+          "BP / throwing / straight-line drills ✅",
+          "Cutting drills ✅",
+          "MiLB rehab (Triple-A Gwinnett) ✅",
+          "MLB activation ⏳"
+        ]
+      },
+      "injury_history": [
+        {"date": "2026-03-03", "type": "Left fibula non-displaced fracture", "return": "Resolved — rehab complete"},
+        {"date": "2025-06-09", "type": "Left hamstring strain (2nd occurrence)", "return": "In rehab → Triple-A Gwinnett"},
+        {"date": "2025-05", "type": "Left hamstring strain (1st occurrence)", "return": "Returned after ~15 days"},
+        {"date": "2025-04-28", "type": "Left knee MCL sprain", "return": "Returned"},
+        {"date": "2024-09", "type": "Left knee meniscus tear (surgery)", "return": "Returned, full recovery"},
+        {"date": "2024-05-26", "type": "Left ACL tear", "return": "Returned, surgery"},
+        {"date": "2021-06", "type": "Right ACL tear", "return": "Returned, surgery"}
+      ],
+      "notes": "First injury-shortened season since 2023 ACL tear. All rehab gates cleared — playing at Triple-A Gwinnett. Expected return during Braves homestand ending July 23. Any setback during live game action could still push return. Braves confirmed no plan to move Acuña to shortstop despite Ha-Seong Kim injury. Manager Walt Weiss: 'He's probably as strong as he's ever been. When he comes back, we want him to be able to go.'",
+      "latest_update": {
+        "date": "2026-07-19",
+        "event": "Scheduled for Triple-A Gwinnett games July 18–19. All rehab gates cleared. Expected to return July 22–23.",
+        "source": "https://www.mlb.com/injuries"
+      }
+    },
+    "mookie-betts": {
+      "name": "Mookie Betts",
+      "team": "Los Angeles Dodgers",
+      "position": "SS / 3B / OF",
+      "status": "Day-to-Day (Active — NOT on IL)",
+      "status_color": "yellow",
+      "current_injury": {
+        "type": "Stiff lower back (Jul 11) + right wrist soreness (resolved Jul 2) + post-viral fatigue from Jul 2025 illness",
+        "date_reported": "2026-07-11 (back); 2026-07-02 (wrist resolved)",
+        "mechanism": "Lower back stiffness — no specific incident. Wrist soreness resolved with treatment. Residual fatigue from severe viral illness (late July 2025 — ~25 lbs loss, 175→150 lbs).",
+        "severity": "Minor (day-to-day); NOT expected on IL for any current issue",
+        "details": "Out 3+ games as of Jul 13 for back stiffness. Manager Dave Roberts confirmed NOT expected on IL. Conservative day-to-day management. Residual fatigue from July 2025 viral illness. Currently on a 7-game hitting streak (.355 avg over last 15 games)."
+      },
+      "rehab_timeline": {
+        "expected_return": "Within days — day-to-day management",
+        "back_out_games": "3–5 (as of Jul 13)",
+        "viral_care": "Weight stabilizing at ~150 lbs; manager says 'turned a corner'"
+      },
+      "injury_history": [
+        {"date": "2026-07-11", "type": "Stiff lower back (day-to-day)", "return": "Day-to-day, NOT IL"},
+        {"date": "2026-07-02", "type": "Right wrist soreness (resolved)", "return": "Resolved"},
+        {"date": "2026-04-10", "type": "Right oblique strain (10-day IL)", "return": "Activated after 2 OKC rehab games"},
+        {"date": "2025-07 (late)", "type": "Viral illness (~25 lbs loss)", "return": "Returned; 150 lbs, manager says 'turned a corner'"},
+        {"date": "2025-07", "type": "Death of stepfather (personal leave)", "return": "N/A — personal leave"},
+        {"date": "2025-03", "type": "Right wrist fracture (pitching machine)", "return": "Returned after 6–8 weeks"},
+        {"date": "2024-06", "type": "Left ankle sprain + right back strain", "return": "Returned"}
+      ],
+      "notes": "Most tumultuous stretch in recent memory for a star. All major injuries resolved. No IL expected for back or wrist. Conservative treatment. 7-game hitting streak suggests return to form. Key timeline: Viral illness in late July 2025 → returned late March 2025 → oblique strain April 2026 → back stiffness July 2026.",
+      "latest_update": {
+        "date": "2026-07-17",
+        "event": "Back stiffness day-to-day; out 3+ games. 7-game hitting streak (.355 avg over last 15). Manager Roberts: 'He's feeling a little better. Right now we're in a good spot — just managing day-to-day.'",
+        "source": "https://dodgerblue.com"
+      }
+    },
+    "freddie-freeman": {
+      "name": "Freddie Freeman",
+      "team": "Los Angeles Dodgers",
+      "position": "1B",
+      "status": "Active & Healthy (Chronic ankle managed)",
+      "status_color": "green",
+      "current_injury": {
+        "type": "No acute injury currently. Neck stinger resolved (Aug 2025). Chronic ankle managed with load management. Left wrist contusion (HBP) resolved.",
+        "date_reported": "2025-08-27 (neck stinger — resolved)",
+        "mechanism": "Neck stinger from neck into right shoulder during game vs. Reds. Chronic left ankle from previous sprains. Left wrist contusion from 88 mph sinker (HBP).",
+        "severity": "Mild (all resolved) / Moderate (chronic ankle — managed ongoing)",
+        "details": "No acute injury currently preventing play. Neck stinger fully resolved. Chronic left ankle from June 2025 sprain managed with load management and treatment. Left wrist contusion from HBP resolved (X-rays negative). Left rib/scar tissue (Mar 2025) resolved. Currently playing regularly."
+      },
+      "rehab_timeline": {
+        "expected_return": "N/A — Currently active and playing regularly",
+        "ankle_management": "Ongoing with load management; occasional flare-ups monitored"
+      },
+      "injury_history": [
+        {"date": "2025-08-27", "type": "Neck stinger (resolved)", "return": "Resolved — playing, monitored"},
+        {"date": "2025-06", "type": "Left ankle sprain", "return": "Managed — playing with load management"},
+        {"date": "2025-03-18", "type": "Left rib / scar tissue (Tokyo)", "return": "Returned quickly; 75% chance next game"},
+        {"date": "2025-03-03", "type": "Left wrist contusion (HBP)", "return": "Resolved — X-rays negative, day-to-day"},
+        {"date": "2025-03", "type": "Left knee bone bruise", "return": "Returned"},
+        {"date": "2024-12", "type": "Right ankle debridement surgery", "return": "Returned; played through 2024 WS (MVP)"},
+        {"date": "2024-06", "type": "Left ankle sprain", "return": "Returned"},
+        {"date": "2024-03", "type": "Left ankle tweak (surgically repaired)", "return": "Returned"},
+        {"date": "2024-04", "type": "Left thumb contusion (HBP)", "return": "Returned"},
+        {"date": "2023-06", "type": "Fractured hamate bone", "return": "Returned"}
+      ],
+      "notes": "Chronic ankle issues require ongoing load management. Walk-Off Grand Slam in 2024 WS while playing through ankle surgery. Freeman is the most durable of the three tracked players. Lineup impact: moved to 2nd spot behind Ohtani after Betts' return. Dave Roberts: 'He feels a lot better. There's still some lingering effects, but nothing compromising... I feel confident he can get through it.' Pre-injury 2025 stats: .292 AVG, .836 OPS.",
+      "latest_update": {
+        "date": "2025-08-27",
+        "event": "Out vs. Reds with neck stinger; returned to lineup Friday. No IL. Chronic ankle managed. Currently active.",
+        "source": "https://www.mlb.com/news/freddie-freeman-exits-after-hit-by-pitch-on-left-wrist"
+      }
+    }
+  }
+}
