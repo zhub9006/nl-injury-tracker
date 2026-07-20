@@ -48,51 +48,75 @@
 - **Status:** 🟡 Day-to-Day (Active — NOT expected on IL)
 - **Current Issues:**
   - **Stiff lower back** — July 11, 2026. Exited game vs Nationals in 1st inning; underwent MRI. Out 3+ games. Conservative day-to-day management. NOT expected on IL. MRI described as "more moderate than significant."
-  - **Right wrist soreness** — Reported July 2; resolved after treatment.
-  - **Post-viral fatigue** — Residual effects from severe viral illness (late July 2025) causing ~25 lb weight loss (175→150 lbs).
+  - **Right wrist soreness** — July 2, 2026. Missed one game. Resolved after treatment. Expected back Thursday.
+  - **Residual post-viral fatigue** — Late July 2025 viral illness caused ~25 lbs weight loss (175→150 lbs). Still feeling effects but manageable.
+- **Rehab Timeline:**
+  - Back stiffness → Day-to-day, 3+ games out
+  - Wrist soreness → Resolved July 2; no IL needed
+  - No IL expected for either issue
+- **Key Concern:** Residual fatigue from severe illness; back flare-ups managed conservatively.
+- **Manager Quote:** *"He's feeling a little better. Right now we're in a good spot — we're just managing day-to-day."* — Dave Roberts
 - **Recent Form:** 7-game hitting streak, .355 avg over last 15 games.
 - **Injury History:**
-  - 2026-07-11 — Stiff lower back (day-to-day, MRI "moderate")
+  - 2026-07-11 — Stiff lower back (day-to-day)
   - 2026-07-02 — Right wrist soreness (resolved)
-  - 2026-04-10 — Right oblique strain (10-day IL, activated after 2 OKC rehab games)
-  - 2025-07 (mid) — Right oblique strain (10-day IL)
-  - 2025-07 (late) — Viral illness (~25 lbs loss, death of stepfather)
+  - 2026-04-05 — Right oblique strain (10-day IL, activated after 2 OKC rehab games)
+  - 2025-07 (late) — Viral illness (~25 lbs loss)
   - 2025-03 — Right wrist fracture (pitching machine, 6-8 weeks)
-  - 2025 — Fractured 4th toe, left foot (played through)
-  - 2024-06 — Left ankle sprain
-  - 2024-06 — Right lower back strain
-- **Manager Quote:** *"He's feeling a little better. Right now we're in a good spot — we're just managing day-to-day."* — Dave Roberts
-- **Note:** Most tumultuous recent stretch in recent memory for a star player: broken wrist, oblique strain (×2), severe illness, personal loss, back stiffness. All major injuries resolved. No IL expected for current issues.
+  - 2024-06 — Left ankle sprain (managed)
 
 ---
 
 ## Freddie Freeman — Los Angeles Dodgers (1B)
 
-- **Status:** 🟢 Active & Healthy — Chronic ankle managed via load management
-- **Current Injury:** No acute injury preventing play.
-- **Active Issues:**
-  - **Left wrist contusion (HBP)** — Suffered July 20, 2025 vs Brewers (88 mph sinker off left wrist). Exited game; has since returned to lineup. Contusion resolving.
-  - **Chronic left ankle** — managed with load management and rest days; occasional flare-ups monitored.
-  - **Neck stinger** — resolved Aug 2025.
+- **Status:** 🟢 Active & Healthy — Chronic Ankle Managed via Load Management
+- **Current Injuries:**
+  - No acute injury
+  - Chronic left ankle managed with load management and occasional treatment
+  - Neck stinger (resolved August 2025) — fully recovered
+- **Rehab Timeline:**
+  - N/A — Currently active and playing regularly
+  - Chronic ankle: ongoing load management; occasional flare-ups monitored
+- **Key Concern:** Chronic ankle issues (right debridement Dec 2024, left sprain June 2025) require ongoing monitoring via rest days.
+- **Manager Quote:** *"He feels a lot better. There's still some kind of lingering effects, but nothing compromising."* — Dave Roberts (Aug 2025, re: neck stinger)
+- **Recent Form:** Active; chronic ankle managed with occasional rest days.
 - **Injury History:**
-  - 2025-08-27 — Neck stinger (resolved; played through rest of game)
-  - 2025-07-20 — Left wrist contusion from HBP (resolving)
-  - 2025-06 — Left ankle sprain (managed; playing)
-  - 2025-03-18 — Left rib/scar tissue (Tokyo Dome; resolved quickly)
+  - 2025-08-27 — Neck stinger (resolved — playing, monitored)
+  - 2025-06 — Left ankle sprain (managed — playing)
+  - 2025-03-18 — Left rib/scar tissue (Tokyo Dome — returned quickly)
   - 2024-09-25 — Right ankle sprain (debridement Dec 2024; played through postseason, WS MVP)
-  - 2024-08 — Left thumb contusion
-  - 2023 — Fractured hamate bone (2024 WS; played through with Walk-Off Grand Slam)
-- **Key Notes:** Most durable of the three tracked players. Chronic ankle issues require ongoing monitoring. 2024 WS Walk-Off Grand Slam legend. Dave Roberts: *"He feels a lot better. There's still some kind of lingering effects, but nothing compromising... I feel confident that he can get through it and won't have any setbacks."*
+  - 2024-08 — Left thumb contusion (returned)
+  - 2023 — Fractured hamate bone (2024 WS; returned for Walk-Off Grand Slam)
 
 ---
 
-## Contributing
+## Research Notes
+
+### Acuña Rehab Updates (July 2026)
+- Transferred to Triple-A Gwinnett on July 17, 2026 (per Atlanta Braves announcement).
+- FCL rehab stats: .143 (1-for-7) with 1 HR, 5 RBI, .904 OPS over 3 games.
+- Braves 53-game pre-injury slash: .251/.333/.477 with 10 HR, 22 RBI, 15 SB.
+- Career Gwinnett stats: .313/.342/.865 in 88 games.
+- **Grand slam in 3rd FCL rehab game** — 423 ft, 112.8 mph exit velocity.
+
+### Betts Updates (July 2026)
+- Exited 10-5 win over Nationals on July 11 with back stiffness in 1st inning.
+- MRI "more moderate than concerning" per Dave Roberts.
+- Right wrist soreness resolved July 2 after treatment.
+- Active in 2025 after severe illness: hit below .200 as recently as June 13, then broke out with 7-game hitting streak.
+- Post-viral fatigue still present; ~25 lbs weight loss during late July 2025 illness.
+
+### Freeman Updates (July 2026)
+- No current acute injury. Chronic ankle managed via load management.
+- Neck stinger fully resolved (August 2025 vs. Reds).
+- Out briefly Aug 27, 2025 with stinger; returned Friday with no lingering effects.
+- 2024 WS MVP: Walk-Off Grand Slam despite fractured hamate bone.
+
+---
+
+## How to Contribute
 
 1. Fork the repo and create a branch for your changes.
-2. Update data in `INJURY-DATA.json` (machine-readable) and/or `LATEST-INFO.md`.
-3. Submit a PR with a clear description and source references.
-4. Always cross-reference with official sources: MLB.com, team press releases, and recognized beat reporters.
-
----
-
-*This data was compiled from MLB.com Official Injury Report, ESPN, USA Today, Dodger Blue, ClutchPoints, SI.com, AP News, Sporting News, RotoWire, The Athletic, and team beat reporters. Community contributors should verify against primary sources before updating.*
+2. Update `INITIAL-DATA.md` and/or `nl-injury-initial-data.json`.
+3. Submit a PR with a clear description and sources.
+4. Always cross-reference with MLB.com and team beat reporters.
