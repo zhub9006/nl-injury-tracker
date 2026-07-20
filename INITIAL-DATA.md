@@ -1,83 +1,79 @@
 # NL Injury Tracker — Initial Research Data
 
-> **Research Date:** July 20, 2026  
+> **Research Date:** July 19, 2026  
 > **Players Tracked:** Ronald Acuña Jr., Mookie Betts, Freddie Freeman  
 > **Source:** Community research compiled from MLB.com, ESPN, USA Today, Dodger Blue, ClutchPoints, SI.com, LAFB Network, AP News, The Athletic, RotoWire, Sporting News, team beat reporters, and manager press conferences  
 > **Repository:** [zhub9006/nl-injury-tracker](https://github.com/zhub9006/nl-injury-tracker)
 
 ---
 
-## Quick Reference — At a Glance (July 2026)
+## Quick Reference — At a Glance (July 19, 2026)
 
 | Player | Team | Status | Current Injury | Expected Return |
 |--------|------|--------|---------------|-----------------|
-| **Ronald Acuña Jr.** | Atlanta Braves | 🟡 Rehabbing (Triple-A Gwinnett) | Left hamstring strain (2nd, Jun 2025) + Left fibula non-displaced fracture (Mar 3, 2026 — **RESOLVED**). All rehab gates CLEARED. | **July 22-23, 2026** ⚠️ |
-| **Mookie Betts** | Los Angeles Dodgers | 🟡 Day-to-Day (Active) | Stiff lower back (Jul 11, 2026) + Right wrist soreness (resolved Jul 2). Post-viral fatigue. 7-game hit streak (.355 avg). | Within days (NOT IL) |
-| **Freddie Freeman** | Los Angeles Dodgers | 🟢 Active & Healthy | No acute injury. Neck stinger resolved (Aug 2025). Chronic left ankle managed via load management. | N/A — playing regularly |
+| **Ronald Acuña Jr.** | Atlanta Braves | 🟡 Rehab (Triple-A Gwinnett) | Grade 1 L hamstring strain (2nd); L fibula fracture (Mar 3, 2026 — resolved) | **July 22–23, 2026** ⚠️ |
+| **Mookie Betts** | Los Angeles Dodgers | 🟡 Day-to-Day (Active) | Stiff lower back (Jul 11) + Right wrist soreness (resolved) + Post-viral fatigue | Within days (NOT IL) |
+| **Freddie Freeman** | Los Angeles Dodgers | 🟢 Active & Healthy | No acute injury. Neck stinger resolved (Aug 2025). Chronic ankle managed. | N/A — playing regularly |
 
 ---
 
 ## Player 1: Ronald Acuña Jr. — Atlanta Braves (OF, RF / DH)
 
-### Current Status: 🟡 Rehabbing at Triple-A Gwinnett — All Rehab Gates CLEARED
+### Current Status: 🟡 Rehab at Triple-A Gwinnett — ALL Rehab Gates CLEARED
 
 #### Current Injury Details
 - **Primary:** Grade 1 left hamstring strain (2nd occurrence this season) — placed on 10-day IL June 10, 2025; strained running to first base
-- **Secondary:** Left fibula non-displaced fracture — suffered March 3, 2026 in Spring Training; placed on 60-day IL; **rehab COMPLETE** — no longer on 60-day IL
-- **Severity:** Moderate to severe (hamstring); fibula resolved
-- **Rehab Location:** FCL Braves → **Triple-A Gwinnett (since July 17, 2026)**
+- **Secondary:** Left fibula non-displaced fracture — suffered March 3, 2026 in Spring Training; rehab started April 2026; **COMPLETE** — no longer on 60-day IL
+- **Severity:** Moderate (hamstring recurring); fibula fracture **RESOLVED**
+- **Rehab Location:** FCL Braves → **Triple-A Gwinnett** (since July 17, 2026)
 
-#### Latest Rehab Highlights
+#### Latest Rehab Highlights (Updated July 19, 2026)
 - ✅ Cleared for BP, throwing, and straight-line drills
 - ✅ Hit a **grand slam in 3rd FCL rehab game** — 423 ft, 112.8 mph exit velocity
 - ✅ Went 0-for-3 with a walk and **5 RBIs** in rehab game
-- ✅ **Cleared for cutting drills** — CRITICAL GATE PASSED
-- ✅ **Outfield work CLEARED**
-- ✅ Now playing at **Triple-A Gwinnett July 18-19**
-- ✅ **Fibula fracture rehab COMPLETE** — no longer on 60-day IL
-- ⏳ **MLB activation** expected **July 22-23** (Braves homestand ending)
+- ✅ Slated to play for **Triple-A Gwinnett on July 18–19** per MLB.com
+- ✅ **CLEARED for cutting drills** — verified via rehab gate progression
+- ✅ **CLEARED for outfield work** — no longer DH-only
+- ⏳ **MLB activation expected July 22–23** — during Braves' homestand
 
 #### Pre-Injury 2025 Stats (53 games before hamstring injury)
 - BA: .251 | OBP: .373 | SLG: .421 | HR: 7 | RBI: 22 | SB: 15
 
-#### Injury History Timeline
-| Date | Injury | Status |
-|------|--------|--------|
-| Mar 3, 2026 | Left fibula non-displaced fracture | ✅ **RESOLVED** — rehab complete |
-| Jul 30, 2025 | Grade 1 calf strain | ✅ Returned |
-| Jun 9, 2025 | Left hamstring strain (2nd) | ⏳ In Rehab → Triple-A Gwinnett → July 22-23 |
-| May 2025 | Left hamstring strain (1st) | ✅ Returned |
-| Apr 28, 2025 | Left knee MCL sprain | ✅ Returned |
-| Sep 2024 | Left knee meniscus tear (surgery) | ✅ Full recovery |
-| May 26, 2024 | Left ACL tear | ✅ Returned (surgery; ~8 months missed) |
-| Jun 2021 | Right ACL tear | ✅ Returned (surgery) |
-
-#### Rehab Gates (All Cleared Except MLB Activation)
+#### Rehab Gates
 1. ✅ **BP / Throwing / Straight-line drills** — CLEARED
-2. ✅ **Cutting drills** — CLEARED (critical gate; now passed)
-3. ✅ **Outfield work** — CLEARED
-4. ✅ **MiLB rehab assignment** — Triple-A Gwinnett (July 18-19)
-5. ⏳ **MLB activation** — Expected July 22-23
+2. ✅ **Cutting drills** — CLEARED (critical gate)
+3. ✅ **MiLB rehab assignment** — Gwinnett (July 18–19)
+4. ⏳ **MLB activation** — Expected July 22–23
 
 #### Manager Quote
 > *"He's probably as strong as he's ever been... When we turn him loose, we want him to be ready to go. We're going to make sure he is ready to go when we do turn him loose."* — Walt Weiss (Braves manager)
 
 #### Key Risks & Notes
-- Cutting drills gate now PASSED — rehab progress is AHEAD of schedule
-- Fibula fracture resolved; only hamstring rehab remaining
 - First injury-shortened season since 2023 torn ACL
 - Ha-Seong Kim also in FCL rehab (finger inflammation)
 - Sean Murphy OUT (fractured left middle finger — through July/August)
 - Robert Suarez still on IL (forearm inflammation)
 - Spencer Strider on IL (elbow inflammation)
-- Home Run Derby availability improved with Triple-A progression
-- **Player quote:** *"I think [I'm] going to be patient."* — Acuña on taking his time returning safely
+- Home Run Derby availability improving with Triple-A progression
+- **Player quote on patience:** "I think [I'm] going to be patient." — Acuña on taking his time returning safely
 
 #### Source URLs of Record
 - MLB.com Braves Injuries: https://www.mlb.com/news/braves-injuries-and-roster-moves
 - Rehab Grand Slam: https://www.mlb.com/news/ronald-acuna-jr-hits-grand-slam-during-rehab-assignment
 - SI.com Fantasy Update: https://www.si.com/onsi/fantasy/mlb/ronald-acuna-jr-fantasy-baseball-injury-update-acuna-and-another-20-million-braves-star-are-nearing-a-return
 - Weiss Quote: https://heavy.com/sports/mlb/atlanta-braves/weiss-reveals-when-acuna-jr-could-return/
+
+#### Injury History Timeline
+| Date | Injury | Status |
+|------|--------|--------|
+| Mar 3, 2026 | Left fibula non-displaced fracture | ✅ RESOLVED — rehab complete |
+| Jul 30, 2025 | Grade 1 calf strain | ✅ Returned |
+| Jun 9, 2025 | Left hamstring strain (2nd) | ⏳ In Rehab → Triple-A Gwinnett → July 22–23 |
+| May 2025 | Left hamstring strain (1st) | ✅ Returned |
+| Apr 28, 2025 | Left knee MCL sprain | ✅ Returned |
+| Sep 2024 | Left knee meniscus tear (surgery) | ✅ Full recovery |
+| May 26, 2024 | Left ACL tear | ✅ Returned (surgery; ~8 months) |
+| Jun 2021 | Right ACL tear | ✅ Returned (surgery) |
 
 ---
 
@@ -109,7 +105,7 @@
 | Jul 11, 2026 | Stiff lower back (day-to-day) | 🟡 Day-to-Day, NOT IL |
 | Jul 2, 2026 | Right wrist soreness | ✅ Resolved |
 | Apr 10, 2026 | Right oblique strain | ✅ Returned after 2 OKC rehab games |
-| Jul (mid) 2025 | Right oblique strain (10-day IL) | ✅ Returned |
+| Jul (mid) 2025 | Right oblique strain (10-day IL) | ✅ Returned after 2 OKC rehab games |
 | Jul (late) 2025 | Viral illness (~25 lbs loss) | ✅ Returned; weight stabilizing |
 | Jul 2025 | Death of stepfather (personal leave) | N/A — personal leave; returned Mar 2025 |
 | Mar 2025 | Right wrist fracture (pitching machine accident) | ✅ Returned after 6-8 weeks |
@@ -118,10 +114,9 @@
 | Jun 2024 | Right lower back strain | ✅ Returned |
 
 #### Rehab / Recovery Notes
-- Back stiffness: 3-5 games expected; conservative day-to-day management
+- Back stiffness: 3–5 games expected; conservative day-to-day management
 - Viral recovery: On 7-game hit streak, confirming full physical recovery
 - No IL anticipated for current issues
-- Post-recovery, moved to 3B/DH role as Freeman slid to 2nd spot in lineup behind Ohtani
 
 #### The "Most Tumultuous Recent Stretch in Recent Memory"
 Betts experienced an unprecedented combination in 2025: broken wrist (pitching machine), oblique strain, severe viral illness (~25 lbs loss), death of stepfather, lower back stiffness — **all resolved**, now at full strength on a 7-game hit streak.
@@ -145,9 +140,9 @@ Betts experienced an unprecedented combination in 2025: broken wrist (pitching m
 - **Severity:** Mild (resolved) / Moderate (chronic ankle, managed)
 
 #### Latest Update
+- Out vs Reds Wednesday with neck stinger; returned Friday with no lingering effects
 - No expected games missed; Dave Roberts: *"I feel confident he can get through it and won't have any setbacks."*
 - Chronic ankle managed with load management and rest days; occasional flare-ups monitored
-- 2025 projection: continuing as 1B anchor; moved to 2nd lineup spot behind Ohtani
 
 #### Pre-Injury Stats & Milestones
 - 2024 WS MVP: Walk-Off Grand Slam, .280/.355/.565, 9 HR, 36 RBI, 25 SB
@@ -162,14 +157,13 @@ Betts experienced an unprecedented combination in 2025: broken wrist (pitching m
 | Mar 18, 2025 | Left rib/scar tissue (Tokyo Dome opening day BP) | ✅ Returned quickly; 75% certainty next game |
 | Sep 25, 2024 | Right ankle sprain (debridement Dec 2024) | ✅ Returned; played through 2024 postseason, WS MVP |
 | Aug 2024 | Left thumb contusion | ✅ Returned |
-| 2023 | Fractured hamate bone (2024 WS period) | ✅ Returned; played through 2024 WS |
+| 2023 | Fractured hamate bone (2024 WS) | ✅ Returned; played through 2024 WS |
 | 2022-05 | Right lateral ankle sprain | ✅ Returned |
 
 #### Rehab / Recovery Notes
 - No rehab needed for neck stinger — fully resolved
 - Chronic ankle managed non-surgically with load management and treatment
 - Walk-Off Grand Slam in 2024 WS despite multiple injuries is legendary
-- Lineup impact: Freeman at 2nd spot (with Betts at 1B/DH) is the 2026 Dodgers front line
 
 #### Source URLs of Record
 - Dodger Blue: https://dodgerblue.com/dodgers-injury-updates-freddie-freeman-tommy-edman-max-muncy-alex-call/2025/08/30/
@@ -184,42 +178,30 @@ Betts experienced an unprecedented combination in 2025: broken wrist (pitching m
 ### Championship Impact
 | Player | Medical Status | Team Impact | Estimated Games Missed in 2026 |
 |--------|---------------|-------------|-------------------------------|
-| Acuña | 🔴 Rehabbing (Gwinnett) | BRAVES biggest loss; DH-only gap; 1B/OF bench needs | 150+ (include ongoing rehab) |
-| Betts | 🟡 Day-to-Day (active) | DODGERS minimal impact; returned to full strength, hit streak | 0-5 (current back stiffness) |
+| Acuña | 🔴 60-Day IL → Rehabbing | BRAVES biggest loss; DH-only gap; 1B/OF bench needs | 150+ (include ongoing rehab) |
+| Betts | 🟡 Day-to-Day (active) | DODGERS minimal impact; returned to full strength, hit streak | 0–5 (current back stiffness) |
 | Freeman | 🟢 Active & healthy | DODGERS 1B anchor; load-managed ankle | 0 |
 
-### Dallas / Atlanta Injury Stack (2026)
-- **Acuña**: Rehab at Triple-A Gwinnett, hamstring recurring, fibula resolved
-- **Ha-Seong Kim**: FCL rehab (finger inflammation), IL July 4
-- **Sean Murphy**: Fractured left middle finger — through July/August (60-Day IL)
+### Atlanta Braves Injury Stack (2026)
+- **Acuña**: 60-Day IL → rehabbing, fibula fracture (resolved), hamstring recurring
+- **Ha-Seong Kim**: FCL rehab (finger inflammation)
+- **Sean Murphy**: Fractured left middle finger — through July/August
 - **Robert Suarez**: Right forearm inflammation — IL June 26
-- **Spencer Strider**: Right elbow inflammation — IL June 13
-- **AJ Smith-Shawver**: Tommy John surgery — 2026+, rehabbing starting June 30
-- **J.T. Realmuto**: No updates but catching depth a concern
+- **Spencer Strider**: Right elbow inflammation — IL
 
 ### LA Dodgers Health Status
-- **Betts**: Day-to-day, hit streak, no IL expected
+- **Betts**: Day-to-day back stiffness, NOT IL; 7-game hit streak (.355)
 - **Freeman**: Active, load-managed ankle, no IL
-- **Tommy Edman**: Recovering from sprained right ankle (1 month on IL); BP started; rehab underway
-- **Max Muncy**: No current injury; backup at 1B
 
 ---
 
 ## How to Contribute
 
-1. **Fork** the repository and create a new branch for your changes.
-2. **Update or add** injury data in `nl-injury-initial-data.json` (machine-readable) and/or this file (human-readable).
-3. **Submit a pull request** with a clear description of what was changed and why.
-4. If reporting a new injury, include the **date**, **details**, **rehab timeline**, **return status**, and **source** where available.
-5. **Always cross-reference** with official sources: MLB.com, team press releases, and recognized beat reporters.
+1. **Fork** the repo and create a branch for your changes.
+2. **Update** `INJURY-DATA.json` (machine-readable) and/or `INITIAL-DATA.md` (human-readable).
+3. **Submit a PR** with a clear description and source URLs.
+4. Always cross-reference with official sources: MLB.com, team press releases, and recognized beat reporters.
 
 ---
 
-## Data Validation Checklist
-- [x] Acuña rehab gates: BP ✅ Cutting ✅ Outfield ✅ Gwinnett ✅ MLB ⏳
-- [x] Acuña fibula fracture: RESOLVED
-- [x] Acuña expected return: July 22-23, 2026
-- [x] Betts: Day-to-day back, no IL, 7-game hit streak
-- [x] Freeman: Active, chronic ankle managed, no acute injury
-- [x] All source URLs verified against latest updates
-- [x] Initial data file version: 1.2.0
+*This file is the canonical initial data record. See [INJURY-UPDATES.md](INJURY-UPDATES.md) for the latest news-only updates and [INJURY-DATA.json](INJURY-DATA.json) for the machine-readable format.*
