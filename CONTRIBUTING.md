@@ -1,106 +1,67 @@
 # Contributing to NL Injury Tracker
 
-Thank you for your interest in contributing! This is a community-maintained MLB injury database.
+Thank you for your interest in contributing to this community-maintained MLB National League injury database! This guide will help you get started.
 
 ## How to Contribute
 
 ### 1. Fork the Repository
-Click the "Fork" button on the top-right of the [repository page](https://github.com/zhub9006/nl-injury-tracker), then clone your fork locally.
+Click the "Fork" button at the top-right of the repository page to create your own copy.
 
+### 2. Create a Branch
+Create a new branch for your changes:
 ```bash
-git clone https://github.com/YOUR_USERNAME/nl-injury-tracker.git
-cd nl-injury-tracker
-git checkout -b your-feature-branch
+git checkout -b update-injury-data-for-betts
 ```
 
-### 2. Update the Data Files
-- **`INJURY-DATA.json`** — Update the machine-readable JSON for the player(s) you're reporting on.
-- **`LATEST-INFO.md`** — Update the human-readable summary if the injury status has changed.
-- Add new players in the same format as existing entries.
+### 3. Make Your Changes
+Update the relevant data files with the latest verified injury information:
+- **`INITIAL-DATA.md`** — Full injury reports with timelines, stats, manager quotes, and rehab progress
+- **`NL-STAR-INJURY-UPDATES-LATEST.md`** — Quick-reference summary table and bullet-point updates
 
-### 3. Include Required Information
-When reporting an injury update, please include:
-- **Date** of the injury or update
-- **Injury type and details** (what happened, mechanism if known)
-- **Rehab timeline** or expected return
-- **Return status** (Day-to-Day, IL, Rehabbing, etc.)
-- **Source** (URL to official report, team PR, beat reporter article)
+### 4. Follow Data Guidelines
+When reporting an injury update, include:
+- **Date** of the update or the injury event
+- **Details** of the injury (type, grade/severity if known, body part, mechanism)
+- **Current status** (active, IL, rehabbing, day-to-day, etc.)
+- **Rehab progress** (milestones, rehab assignments, gate clearances)
+- **Expected return** timeline or target date
+- **Source(s)** — Official team reports, MLB.com, ESPN, team press conferences, beat reporters
+- **Manager/coach quotes** where available
 
-### 4. Submit a Pull Request
-- Use a clear commit and PR title (e.g., "Update Acuña fibula rehab progress - July 15")
-- Describe what changed and why
-- Reference source URLs
-- Cross-reference with official sources (MLB.com, team PRs, beat reporters)
+### 5. Cross-Reference Everything
+Always verify against at least 2 independent sources. Preferred sources include:
+- MLB.com official injury reports
+- Team press releases and official social media
+- ESPN injury beat
+- The Athletic / SI.com
+- Recognized beat reporters (Mark Bowman, Jared Diamond, etc.)
+- Manager/coach press conference quotes
 
-## Data Format Guidelines
+### 6. Submit a Pull Request
+Open a PR against the `main` branch with:
+- A clear title (e.g., "Update Acuña rehab status — joined Gwinnett")
+- A description of what changed and why
+- Source citations
+- Screenshots or links where helpful
 
-### JSON Structure (`INJURY-DATA.json`)
-```json
-{
-  "meta": {
-    "last_updated": "YYYY-MM-DD",
-    "total_players_tracked": N
-  },
-  "players": {
-    "player-slug": {
-      "name": "Full Name",
-      "team": "Team Name",
-      "position": "Positions",
-      "status": "Current status",
-      "status_color": "green|yellow|red",
-      "current_injury": {
-        "type": "Injury type",
-        "date_reported": "YYYY-MM-DD",
-        "mechanism": "How it happened",
-        "severity": "Mild/Moderate/Severe",
-        "details": "Additional details"
-      },
-      "rehab_timeline": {
-        "started": "YYYY-MM",
-        "expected_return": "Target date"
-      },
-      "injury_history": [
-        {
-          "date": "YYYY-MM-DD",
-          "type": "Injury type",
-          "return_status": "Returned/In Rehab/Day-to-Day"
-        }
-      ],
-      "notes": "Community watch notes",
-      "data_sources": ["URL1", "URL2"]
-    }
-  }
-}
-```
+## Reporting New Players
 
-### Markdown Structure (`LATEST-INFO.md`)
-- Maintain the Quick Reference Table at the top
-- Use consistent emoji colors: 🟢 Active, 🟡 Day-to-Day/Recovering, 🔴 Out / IL
-- Include injury history tables with dates
-- Add manager quotes where available
-- Note community watch items at the bottom
-
-## Player-Specific Notes
-
-### Ronald Acuña Jr. (ATL)
-- Rehab progression: BP → live pitching → straight-line running → cutting drills → MiLB assignment → MLB
-- Must be cleared for cutting drills before MLB activation
-- Monitor Braves beat reporters (Mark Bowman, Journal Sentinel)
-
-### Mookie Betts (LAD)
-- Recurring oblique/back issues — conservative treatment
-- NOT expected on IL unless severe
-- Watch for stiffness after off-days
-
-### Freddie Freeman (LAD)
-- Chronic ankle — load management
-- Neck stingers may recur
-- Watch Dodgers lineup changes
+Want to track a new NL player? Fork the repo and:
+1. Add their section to `INITIAL-DATA.md` following the existing format
+2. Add their entry to the quick-reference table in `NL-STAR-INJURY-UPDATES-LATEST.md`
+3. Include their basic injury history if you have it
+4. Submit a PR with a clear description
 
 ## Code of Conduct
-- Be respectful in PR reviews
-- Only add information from verified sources
-- If unsure, leave a note and let the community verify
+- Be respectful and constructive in discussions
+- Always cite sources and never fabricate information
+- Update data promptly when new information becomes available
+- When in doubt, leave a comment asking for clarification rather than guessing
 
-## Questions?
-Open an issue with the tag "question" and we'll help!
+## Getting Help
+- Open an [Issue](https://github.com/zhub9006/nl-injury-tracker/issues) for questions or bug reports
+- Check existing issues before opening a new one
+- Join the discussion in active PRs
+
+---
+*This is a community project. Every contribution helps keep NL fans informed!*
