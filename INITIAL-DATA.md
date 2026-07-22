@@ -1,6 +1,6 @@
 # NL Injury Tracker — Initial Research Data
 
-> **Research Date:** July 20, 2026  
+> **Research Date:** July 2026  
 > **Players Tracked:** Ronald Acuña Jr., Mookie Betts, Freddie Freeman  
 > **Source:** Community research compiled from MLB.com, ESPN, Yahoo Sports, NBC Sports, SI.com, LAFB Network, AP News, The Athletic, RotoWire, Sporting News, CBS Sports, Dodgers Nation, Dawgs By Nature, team beat reporters, and manager press conferences  
 > **Repository:** [nl-injury-tracker](https://github.com/zhub9006/nl-injury-tracker)
@@ -11,15 +11,15 @@
 
 | Player | Team | Status | Current Injury | Expected Return |
 |--------|------|--------|---------------|-----------------|
-| **Ronald Acuña Jr.** | Atlanta Braves | 🟡 Rehabbing (Triple-A Gwinnett) | Left hamstring strain (2nd occurrence, Jun 9); Left fibula fracture (Mar 3, 2026 — RESOLVED) | July 22–23, 2026 ⚠️ |
-| **Mookie Betts** | Los Angeles Dodgers | 🟡 Day-to-Day (Active) | Stiff lower back (Jul 11); wrist soreness (resolving); post-viral fatigue (~25 lbs loss, late Jul 2025) | Within days (no IL expected) |
-| **Freddie Freeman** | Los Angeles Dodgers | 🟢 Active & Healthy | No acute injury; chronic ankle managed; neck stinger (resolved Aug 2025) | N/A — playing regularly |
+| **Ronald Acuña Jr.** | Atlanta Braves | 🟠 Rehabbing (Triple-A Gwinnett) | Left hamstring strain (2nd); Left fibula fracture (RESOLVED) | July 22–23, 2026 ⚠️ |
+| **Mookie Betts** | Los Angeles Dodgers | 🟡 Day-to-Day (Active) | Stiff lower back (Jul 11); wrist soreness (resolving); post-viral fatigue | Within days (no IL expected) |
+| **Freddie Freeman** | Los Angeles Dodgers | 🟢 Active & Healthy | No acute injury; chronic ankle managed; neck stinger (resolved) | N/A — playing regularly |
 
 ---
 
 ## Player 1: Ronald Acuña Jr. — Atlanta Braves (OF / DH)
 
-### Current Status: 🟡 On Rehab Assignment — Triple-A Gwinnett
+### Current Status: 🟠 On Rehab Assignment — Triple-A Gwinnett
 
 #### Current Injury Details
 - **Primary:** Grade 1 left hamstring strain (2nd occurrence this season) — injured June 9, 2026 running to first base vs. the Chicago White Sox; placed on 10-day IL June 10
@@ -67,7 +67,7 @@
 #### Current Issues (All Minor)
 - **Stiff lower back** (felt discomfort running bases vs. Nationals, Apr 2026): MRI taken, oblique strain confirmed; underwent IL stint
 - **Right wrist soreness** (resolving): Not IL-eligible; swelling managed
-- **Post-viral fatigue** (late Jul 2025): ~25 lbs weight loss (175→150 lbs) from undiagnosed stomach illness; now back at playing weight
+- **Post-viral fatigue** (late Jul 2025): ~25 lbs weight loss (175→150 lbs) from undiagnosed stomach illness (likely norovirus); now back at playing weight
 - Currently active but may be managed day-to-day to allow for gradual return to full workload
 
 #### Latest Rehab & Recovery Details
@@ -78,6 +78,8 @@
 - Pre-IL stats (8 games): .179/.281/.429, 2 HR, 7 RBI
 - 2025 was turbulent: stomach illness (norovirus), ~25 lbs weight loss, struggled to .682 OPS by end of July; redeemed himself in August (.330/.405/.454 since Aug 5); dealt with death of stepfather
 - Post-viral conditioning is improved; back to regular playing weight 175 lbs
+- Spring Training 2025: Missed time with stomach virus (likely norovirus), lost 15-30 lbs; returned by March 24 spring finale vs Angels. Stated "My body's been perfectly fine. It's only been my stomach, literally only my stomach."
+- Came through spring training healthy and ready; home opener vs matchups strong
 
 #### Injury History Timeline
 | Date | Injury | Status |
@@ -85,9 +87,9 @@
 | May 12, 2026 | Activated from IL (oblique strain) | ✅ Returning cautiously |
 | Apr 5, 2026 | Right oblique strain (10-day IL) | ✅ Rehabbed |
 | Jun 2026 | Right lower back / oblique soreness | ✅ Managed day-to-day |
-| Jul 2025 (late) | Viral illness (~25 lbs loss, 175→150) | ✅ Recovered |
-| Jul 2025 | Death of stepfather (personal leave) | ✅ Returned Mar 2025 |
-| Mar 2025 | Right wrist fracture (pitching machine) | ✅ Returned (6-8 weeks) |
+| Jul 2025 (late) | Viral illness (~25 lbs loss, norovirus suspected, 175→150 lbs) | ✅ Recovered |
+| Jul 2025 | Death of stepfather (personal leave) | ✅ Returned |
+| Mar 2025 | Right wrist fracture (pitching machine on in-between pitching) | ✅ Returned (6-8 weeks) |
 | 2025 | Fractured 4th toe, left foot | ✅ Playable |
 | Jun 2025 | Left ankle sprain | ✅ Managed |
 | Jun 2025 | Right lower back strain | ✅ Returned |
@@ -117,6 +119,8 @@
 - Regular lineup presence throughout; traveling team to road trips
 - Spring Training 2026: Initially cautious right ankle; progressed to full 1B role by mid-March
 - Wrist contusion from HBP (May 2026): managed with rest, no fracture
+- Fresh off October 2025 postseason run; slashing .280/.355/.565 with Walk-Off Grand Slam in WS
+- According to Dave Roberts: "He feels a lot better. There's still some kind of lingering effects, but nothing compromising. It is something that we'll keep an eye on day-to-day, but I feel confident that he can get through it and won't have any setbacks."
 
 #### Injury History Timeline
 | Date | Injury | Status |
@@ -141,7 +145,7 @@ Freeman's right ankle underwent debridement surgery in December 2024 after a Sep
 
 | Metric | Acuña | Betts | Freeman |
 |--------|-------|-------|---------|
-| Current Status | 🟡 Rehabbing (AAA Gwinnett) | 🟡 Day-to-Day (Active) | 🟢 Active & Healthy |
+| Current Status | 🟠 Rehabbing (AAA Gwinnett) | 🟡 Day-to-Day (Active) | 🟢 Active & Healthy |
 | Current Injury | Hamstring (2nd, LHS) + fibula (resolved) | Oblique (just activated from IL) + back stiffness; post-viral | Wrist HBP (resolved); chronic ankle; neck stinger resolved |
 | Games Impact (2026) | ~18 days IL; ongoing rehab | ~5 weeks IL; activated May 12 | 0–few days; managed |
 | Injury Pattern | Left-side recurring | Multi-body, acute events | Chronic ankle + recent acute |
