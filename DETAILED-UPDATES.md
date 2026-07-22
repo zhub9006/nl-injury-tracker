@@ -1,118 +1,121 @@
-# Detailed Injury Updates — Career Timeline Deep Dives
+# NL Injury Tracker — Detailed Player Updates
 
-> **Last Updated:** 2026-07-15 | **For:** NL Injury Tracker Community
-
----
-
-## Ronald Acuña Jr. — Atlanta Braves (OF, RF)
-
-### 2026: Left Fibula Fracture
-- **Date:** March 3, 2026 (Spring Training)
-- **Mechanism:** Non-contact injury during ST. Non-displaced fracture of left fibula.
-- **Severity:** Moderate to severe. 60-day IL placement.
-- **Rehab Progress:**
-  | Phase | Timeline | Status |
-  |-------|----------|--------|
-  | Initial rest/immobilization | Mar 3 - Apr 2026 | ✅ Complete |
-  | Rehab started | Apr 2026 | ✅ Started |
-  | BP/throwing | ~May 2026 | ✅ Cleared |
-  | Straight-line drills | ~Jun 2026 | ✅ Cleared |
-  | **Cutting drills** | Jul 2026 | ⏳ **Pending** |
-  | MiLB rehab | TBD | ⏳ Pending |
-  | MLB activation | Early-to-mid Jul 2026 | ⏳ Target |
-- **Return Est.:** Early-to-mid July 2026
-- **60-Day IL:** Yes (retroactive至 injury date)
-
-### 2025: Hamstring & Knee Issues
-- **Apr 2025:** Left knee MCL sprain — missed time, returned
-- **May 2025:** Left hamstring strain vs Rockies — 10-day IL, activated ahead of Marlins series
-- **Grades 1 calf strain:** 7/2025 — managed without IL
-
-### 2024: Knee Surgery
-- **Sep 2024:** Left knee meniscus tear — surgery, raised long-term concerns
-
-### 2023: ACL Tear
-- **May 2023:** Torn ACL (left knee) — missed ~6-9 months, returned late 2023
-
-### Key Insight
-Acuña's 2026 fibula fracture is the continuation of a troubling injury cycle for his left side (knee → meniscus → fibula). The 2023 ACL tear was the defining moment. Watch for the rehab gate progression closely — ANY setback at the cutting drills stage could delay return into August.
+> **Last updated:** July 22, 2026  
+> **Research Sources:** MLB.com, ESPN, Yahoo Sports, NBC Sports, SI.com, LAFB Network, AP News, The Athletic, RotoWire, Sporting News, CBS Sports, Dodgers Nation, Dodger Blue, USA Today, MLB Trade Rumors, team press conferences, manager Q&As  
+> **Repository:** [zhub9006/nl-injury-tracker](https://github.com/zhub9006/nl-injury-tracker)
 
 ---
 
-## Mookie Betts — Los Angeles Dodgers (SS / Multi-Position)
+## Ronald Acuña Jr. — Atlanta Braves (OF / DH)
 
-### 2026: Back & Wrist Cycle
-- **Jul 11, 2026:** Stiff lower back — day-to-day, 3rd consecutive game missed
-- **Jul 2, 2026:** Right wrist soreness — resolved after Jul 2 treatment
-- **Context:** Dodgers manager Dave Roberts explicitly said NOT expected on IL. Conservative management.
+### Current Injury Deep Dive
 
-### 2025: Oblique & Viral Illness
-- **Jul 2025:** Right oblique strain — DL stint, resolved
-- **Late Jul 2025:** Severe viral illness — ~20 lbs weight loss, death of stepfather. Missed games.
+Ronald Acuña Jr. is navigating the most injury-plagued stretch of an already extraordinary career. The Braves' 2023 NL MVP and 40-HR/70-ST runner-up has suffered a cascading series of left-side injuries over the past year.
 
-### 2025: Wrist Fracture
-- **Mar 2025:** Right wrist fracture from pitching machine accident — 6-8 week DL stint
-- **Impact:** Extremely unusual for a star player; disrupted spring training and start of season
+**Hamstring Strain (June 9, 2026):** Acuña suffered a Grade 1 strain of his left hamstring while running to first base against the Chicago White Sox on June 9, 2026 — his second hamstring strain of the season (the first occurred in May 2025 and healed in 15 days). He was immediately placed on the 10-day IL. While heading into this injury setback, Acuña was hitting .251/.333/.477 with 7 HR and 22 RBI across 53 games, including a red-hot stretch of .893 OPS with 5 HR in his last 19 games.
 
-### 2024-2025: Minor Issues
-- **Jun 2025:** Left ankle sprain — managed
-- **Jun 2024:** Right lower back strain — resolved
-- **Aug 2024:** Left thumb contusion — resolved
+**Fibula Fracture (March 3, 2026):** During Spring Training on March 3, Acuña suffered a non-displaced fracture of the left fibula, which placed him on the 60-day IL and sidelined him for the start of what would have been a title-contending campaign. Rehab progressed steadily through April and May.
 
-### Key Insight
-Betts' 2025-2026 is the most tumultuous stretch for a star player. Each injury has resolved, but cumulative stress may explain the recurring back issues. The wrist fracture from a pitching machine is a freak accident that now may make him more vulnerable. The current back stiffness is NOT injury-level — monitor for any structural findings.
+**Rehab Milestone — Grand Slam Drama (July 2026):** In his third Florida Complex League rehab game, Acuña launched a towering grand slam measuring 423 feet with an exit velocity of 112.8 mph — a powerful signal that his bat speed and power are returning at full force. Just days later, on July 19, he played right field for the first time as part of his rehab assignment with Triple-A Gwinnett, going 0-for-2 with a sacrifice fly.
+
+**Rehab Gates Cleared:**
+- ✅ BP / throwing / straight-line drills
+- ✅ Cutting drills (critical gate)
+- ✅ Outfield work
+- ✅ MiLB rehab transfer from FCL to Triple-A Gwinnett (July 17, 2026)
+- ⏳ MLB activation expected July 22–23, 2026
+
+**Manager Walt Weiss on Acuña:** "He's probably as strong as he's ever been... When he comes back, we want him to be able to go. We're going to make sure he is ready to go when we do turn him loose."
+
+**Key Risk:** Recurring left-side injuries (hamstring 2x, fibula, MCL, meniscus, ACL 3x total). The Braves will need to balance urgency (NL East race) with long-term health. Every rehab gate passed brings him closer, but the pattern of recurring issues is concerning.
+
+### Career Injury Timeline
+| Date | Injury | Duration | Outcome |
+|------|--------|----------|---------|
+| Jun 2021 | Right ACL tear (World Series, vs. Astros) | ~10 months | Returned July 2022 |
+| May 2024 | Left ACL tear (vs. Rays) | ~12 months | Returned May 2025 |
+| Sep 2024 | Left knee meniscus tear | Surgery | Returned Sept 2024 |
+| Apr 2025 | Left MCL sprain | Weeks | Returned |
+| May 2025 | Left hamstring strain (1st) | 15 days | Returned |
+| Dec 2024 / ongoing | Right ankle debridement | Minor surgery | Fully resolved |
+| Mar 2026 | Left fibula fracture (Spring Training) | ~4 months | RESOLVED — rehab complete |
+| Jun 2026 | Left hamstring strain (2nd) | Ongoing rehab | Triple-A → Target July 22-23 |
+
+---
+
+## Mookie Betts — Los Angeles Dodgers (SS / 3B / OF)
+
+### Current Injury Deep Dive
+
+Mookie Betts' 2025 and early 2026 campaign represents an extraordinary test of resilience — winning a World Series as the spiritual leader of the Dodgers, then enduring a mysterious and devastating stomach virus, followed by a cascade of acute injuries.
+
+**Norovirus Mystery Illness (Late March 2025):** Just before the Dodgers' departure for their Japan exhibition series, Betts was struck by a severe, undiagnosed stomach illness — widely reported as norovirus or a similar gastrointestinal virus. The illness was extreme: Betts lost between 15-30 pounds (175 lbs → ~150 lbs), required IV fluids, and described the experience as feeling like "his body was eating itself." He missed the first two-plus weeks of the regular season. ESPN reported skip tracing in search of the illness; The Athletic later indicated it was likely norovirus. By late March, Betts returned for the Dodgers' spring finale at Angel Stadium, going 0-for-3 with 5 innings at SS. He stated: "My body's been perfectly fine. It's only been my stomach, literally only my stomach... I've been working out, doing everything perfectly normal. It was just hard to hold down food."
+
+**Post-Viral Slump & Comeback:** Following his return, Betts endured the worst offensive slump of his career — hitting .682 OPS by late July 2025. However, from August 5 forward, he roared back at .330/.405/.454, showing glimpses of the MVP form that had defined his Dodgers tenure. The psychological toll was significant: Betts also dealt with the death of his stepfather during this period, compounding the physical and emotional challenges.
+
+**Current Status:** Recovered full weight (175 lbs post-viral). Returned to full health and started the 2026 season strong. Hit a torrid stretch in June 2026 (.290/.339/.477, 5 HR, 12 RBI; 7-game hitting streak with .355 average over last 15 games). However, he dealt with right oblique strain (April 5, 2026, 10-day IL) and right wrist soreness (resolved July 2). Currently listed as day-to-day with mild lower back stiffness but NOT expected to go on IL.
+
+**Manager Dave Roberts on Betts:** "He's feeling a little better. Right now we're in a good spot — we're just managing day-to-day." and "I expect to keep playing. I'm in a really good spot. Everything is pretty normal."
+
+### Career Injury Timeline
+| Date | Injury | Details |
+|------|--------|---------|
+| Mar 2025 (late) | Norovirus / stomach illness | ~25-30 lbs loss; missed 2+ weeks; returned by Mar 24 spring finale |
+| Jul 2025 (late) | Death of stepfather | Personal leave; emotional recovery |
+| Mar 2025 | Right wrist fracture (pitching machine) | 6-8 weeks on IL |
+| 2025 | Fractured left 4th toe / left foot | Played through |
+| Jun 2025 | Right lower back strain | Simpler, returned |
+| Jun 2025 | Left ankle sprain | Managed |
+| Apr 5, 2026 | Right oblique strain | 10-day IL; activated May 11 after 2 OKC rehab games |
+| Jul 2, 2026 | Right wrist soreness | Resolved with treatment |
+| Jul 11, 2026 | Stiff lower back | Day-to-day; NOT expected on IL |
 
 ---
 
 ## Freddie Freeman — Los Angeles Dodgers (1B)
 
-### 2025-2026: Neck & Ankle Management
-- **Aug 27, 2025:** Neck stinger (neck into right shoulder) — scratched vs Reds, returned Friday with lingering effects. Resolved.
-- **Jun 2025:** Left ankle sprain — managed, playing
-- **Ongoing:** Chronic ankle flare-ups managed with load management
+### Current Injury Deep Dive
 
-### 2024-2025: Rib/Scar Tissue & Ankle Surgery
-- **Mar 18, 2025:** Left rib/scar tissue re-aggravated during BP before Tokyo Dome debut. Scratched from first regular-season game in Tokyo. Resolved.
-- **Aug 2025:** Ongoing neck management post-stinger
-- **Sep 25, 2024:** Right ankle sprain
-- **Dec 2024:** Right ankle debridement + loose bodies — played through 2024 postseason
+Freddie Freeman represents the gold standard of injury management in MLB — a player who has been knocked down repeatedly by serious injuries and has returned each time with the same elite production. At 37, Freeman is in his 17th MLB season and continuing to perform at an All-Star level.
 
-### 2024: Legendary Injury Performance
-- **2024 Postseason:** Walk-Off Grand Slam in World Series — played through rib/neck injury. Franchise legend.
-- **2024 WS Game 3:** Hit go-ahead HR with fractured hamate bone
-- **2024 WS Game 7:** Grand Slam despite left thumb contusion
+**Chronic Ankle Management:** Freeman's most persistent issues have been with his ankles. In September 2024, he sprained his right ankle and played through the postseason, including a legendary walk-off grand slam in Game 3 of the 2024 World Series. He underwent debridement surgery on the right ankle in early December 2024 to remove loose bodies and address bone bruising. Despite a shaky start to 2025 spring training (weight-room setback), Freeman was cleared by late March and played flawlessly during the Tokyo Series (12 games, .333/.412/.588, 2 HR).
 
-### Key Insight
-Freeman is the most durable of the three tracked players. His ankle issues (right surgery, left sprain) are chronic but manageable. The neck stingers are episodic and typically resolve within days. He has the lowest injury risk profile of the three. The concern is the ankle — if a flare-up coincides with a key stretch, it could affect his ability to play through it.
+**World Series Heroics:** Freeman's 2024 postseason became legend. He led the Dodgers with a .280/.355/.565 slash, 9 HR, 36 RBI, and 25 stolen bases (earning the WS MVP). In Game 4 of the 2024 ALDS vs the Royals, he hit a walk-off Grand Slam against James McArthur — one of the most iconic moments in Dodgers history.
 
----
+**Current Management:** Freeman is currently active and healthy with no acute injuries. He was scratched from Opening Day 2025 (March 17) with "left rib discomfort" that resolved quickly. He had a neck stinger on August 27, 2025, vs. the Cincinnati Reds that resolved within days. On June 20, 2025 suffered a left ankle sprain that was managed load-management style. In May/July 2026, he was hit by an 88-mph sinker from the Brewers on the left wrist — X-rays were negative (bone contusion only), and he returned the next game. The Dodgers manage his chronic ankle through load management days and sometimes limit him to 2 at-bats per game as a precaution. He is slashing .42 mph in BP when locked in mechanically.
 
-## Cross-Player Comparison
+**Manager Dave Roberts on Freeman:** "He feels a lot better. There's still some kind of lingering effects, but nothing compromising. It is something that we'll keep an eye on day-to-day, but I feel confident that he can get through it and won't have any setbacks."
 
-| Metric | Acuña | Betts | Freeman |
-|--------|-------|-------|---------|
-| Current Status | On 60-Day IL | Day-to-Day | Active & Healthy |
-| Acuity Today | Acute (fracture) | Low-grade (back stiffness) | None |
-| Injury Cycle | Left-side recurring | Multi-body, acute events | Chronic ankle |
-| Expected Games Missed | Full 2026 season (likely) | 0-3 games (if any) | 0 |
-| Community Priority | ⚠️ HIGH — Rehab Gate tracking | 🟡 MEDIUM — Day-to-day updates | 🟢 LOW — Monitoring only |
+### Career Injury Timeline
+| Date | Injury | Details |
+|------|--------|---------|
+| 2023 | Fractured hamate bone (2024 WS) | Surgery; resolved before 2024 WS |
+| Aug 2024 | Left thumb contusion | Minor; resolved quickly |
+| Aug 2024 | Left wrist HBP (contusion) | X-rays negative; played next game |
+| Sep 2024 | Right ankle sprain | Postseason |
+| Oct 2024 | Right ankle debridement surgery | Dec 2024; WS performance |
+| Mar 2025 | Left rib/scar tissue discomfort | Tokyo Dome; resolved quickly |
+| Mar 2025 | Opening Day scratch (left rib discomfort) | Activated shortly after |
+| Jun 2025 | Left ankle sprain (MLB) | Managed within games |
+| Aug 2025 | Neck stinger (vs Reds) | Resolved in days |
+| Jun 2025 | Left ankle strain (MLB) | Minor management |
+| 2026 | Wrist contusion (88 mph HBP, Brewers) | No fracture; played next game |
 
 ---
 
-## How to Update This File
+## NL Star Cross-Comparison
 
-1. **Fork** the repo and create a new branch
-2. **Edit** this file with new injury data
-3. **Submit a PR** with sources
-4. Always include: **date**, **details**, **rehab timeline**, **return status**, **source URL**
+| Category | Ronald Acuña Jr. | Mookie Betts | Freddie Freeman |
+|----------|------------------|--------------|-----------------|
+| Team | Atlanta Braves | LA Dodgers | LA Dodgers |
+| Pos | RF/DH | SS/3B/OF | 1B |
+| Current Health | 🟠 Rehabbing (AAA) | 🟡 Day-to-Day | 🟢 Fully Active |
+| Injury Trend | Recurring left side | Acute multi-body events | Chronic ankle managed |
+| 2026 Games Impact | ~18 days IL + rehab | ~5 weeks IL (resolved) | 0-2 days missed |
+| Biggest Concern | Hamstring recurrence | Post-viral conditioning | Ankle durability |
+| 2025 MVP/WS Performer | NL MVP runner-up (MVP debate) | WS Champion / WS MVP | WS Champion / WS MVP |
+| Age | 26 | 32 | 37 |
 
-## Sources
-- MLB.com Injury Tracker
-- ESPN Injury Report
-- Dodgers Nation / Dodgers Blue
-- Braves Beat Reporters
-- ClutchPoints / The Athletic
-- Team официальные press conferences
+---
 
-## License
-Open source — community maintained. Always cross-reference with official sources.
+*This file tracks extended career injury timelines and narratives for NL Stars. Updated July 22, 2026 by the community contributor base.*
