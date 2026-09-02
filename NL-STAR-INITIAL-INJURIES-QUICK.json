@@ -1,0 +1,58 @@
+# NL Star Injuries — Fast JSON Summary
+
+> **Latest Update:** September 2026  
+> **Players:** 3 (Acuña Jr., Betts, Freeman)  
+> **Repository:** [nl-injury-tracker](https://github.com/zhub9006/nl-injury-tracker)
+
+```json
+{
+  "update_date": "2026-09-02",
+  "data_coverage": "2025 MLB Season injury + outcomes",
+  "legend": {"active": "A", "day-to-day": "⚠️", "rehab": "🏋️"},
+  "players": [
+    {
+      "name": "Ronald Acuña Jr.",
+      "team": "Atlanta Braves",
+      "pos": "RF",
+      "jersey": 13,
+      "status": "ACTIVE",
+      "2025_stats": "BA .290 | HR 21 | R 95 | 186 AB",
+      "award": "NL Comeback Player of the Year (Nov 2025)",
+      "current_injury_status": "No injury reported (healthy for 2026)",
+      "major_2025_injuries": ["Left ACL tear (surgery Jun 2024) — recovered fully"]
+    },
+    {
+      "name": "Mookie Betts",
+      "team": "Los Angeles Dodgers",
+      "pos": "SS / 3B / OF",
+      "jersey": 50,
+      "status": "ACTIVE",
+      "recognition": "NL Player of the Week (Sep 15, 2025)",
+      "current_injury_status": "Healthy and in lineup regularly",
+      "major_2025_issues": ["Viral illness (~25 lbs lost)", "Right lower back stiffness (day-to-day)"]
+    },
+    {
+      "name": "Freddie Freeman",
+      "team": "Los Angeles Dodgers",
+      "pos": "1B",
+      "jersey": 5,
+      "status": "ACTIVE",
+      "recognition": "All-Star (9th time) + 2x World Series Walk-Off Grand Slam (2024 + 2025)",
+      "stats_during_2025_injury": "BA .292 | OPS .836 | HR 10 | RBI 49",
+      "current_injury_status": "No acute injury — chronic ankle managed"
+    }
+  ]
+}
+```
+
+---
+
+## Reduced JSON (for apps)
+
+```json
+{
+  "acuna": {"status": "ACTIVE", "health": 95, "award": "Comeback POTY 2025"},
+  "betts": {"status": "ACTIVE", "health": 95, "award": "NL POTW Sep 2025"},
+  "freeman": {"status": "ACTIVE", "health": 85, "award": "All-Star 9x + WS Walk-Off HR 2x"}
+}
+```
