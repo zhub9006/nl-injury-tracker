@@ -35,7 +35,7 @@
 - **Full Rehab Path:** 10-day IL (Jun 10) → FCL Braves rehab (Jul 13) → Triple-A Gwinnett (Jul 17) → **Activated (Jul 27)**
 - **All Rehab Gates Cleared:** BP/throwing/straight-line ✅ | Cutting drills ✅ | Outfield work ✅ | MiLB rehab ✅
 
-###康复 Rehab Highlights
+### Rehab Highlights
 - Hit grand slam in 3rd FCL rehab game: **423 feet, 112.8 mph exit velocity**
 - Braves manager Walt Weiss (Jul 18, 2026): *"I won't rule out a return before Thursday."*
 - Returned to leadoff spot immediately upon activation
@@ -48,7 +48,7 @@
 | 2024-05-15 | Left ACL | Tore left ACL; surgery | Severe | Resolved |
 | 2024-09 | Left Knee (Meniscus + MCL) | Meniscus tear + MCL injury | Severe | Resolved |
 | 2025-05-26 | Left Hamstring | Hamstring strain (1st occurrence) during game | Moderate | Resolved |
-| 2026-03-03 | Left Fibula | Left fibula fracture in Spring Training; surgery needed | Severe | Resolved |
+| 2026-03-03 | Left Fibula | Left fibula non-displaced fracture in Spring Training; surgery needed | Severe | Resolved |
 | 2026-06-09 | Left Hamstring | Left hamstring strain (2nd occurrence) running to first vs White Sox | Moderate | Resolved |
 | 2026-06-10 | IL | Placed on 10-day IL | — | Resolved |
 | 2026-07-13 | FCL Braves | First rehab assignment; grand slam (423ft/112.8mph) | Minor | Completed |
@@ -144,52 +144,42 @@
 #### 2025 Season — Colorful and Injury-Marked, Ending in Triumph
 | Date | Body Part | Injury / Event | Severity | Status |
 |---|---|---|---|---|
-| 2025-03-18 | Left Rib | Discomfort during BP before Tokyo Series Game 1; scratched from lineup <1hr before first pitch; same area as 2024 postseason injury | Mild-Moderate | ✓ returned next day |
-| 2025-03-19 | N/A | Returned for Tokyo Series Game 2 | N/A | Came back ✓ |
+| 2025-03-18 | Left Rib | Discomfort during BP before Tokyo Series Game 1; scratched from lineup <1hr before first pitch; same area as 2024 postseason injury | Mild-Moderate | Returned next day ✓ |
+| 2025-03-19 | N/A | Returned for Tokyo Series Game 2 | N/A | Returned ✓ |
 | 2025-06 | Left ankle (chronic) | Post-surgical left ankle; management via load management/rest days | Moderate (chronic) | Playing through |
 | 2025-06 | Right ankle | Post-surgical right ankle from Dec 2024 debridement | Resolved | Fully healthy ✓ |
-| 2025-08-27 | Neck — right shoulder | Stinger extending from neck into right shoulder; missed 1 game | Mild-Moderate | ✓ returned Friday |
-| 2025-08-30 | N/A | Returned to lineup; Dodgers managed him with off-day afterwards | N/A | ✓ returned ✓ |
+| 2025-08-27 | Neck / right shoulder | Neck stinger extending into right shoulder; missed 1 game | Mild-Moderate | Returned Friday ✓ |
+| 2025-08-30 | N/A | Returned to lineup; Dodgers managed him with off-day afterwards | N/A | Returned ✓ |
 | Late Aug | Off day given | Manager Dave Roberts gave Freeman a day off (Wed) to recover ahead of road trip | Scheduled | Helped recovery |
-| 2025 Full season | Postseason | Came through ACL elbow; late-season one ankle issue; Dodgers World Series champions | — | Champion ✅ |
+| 2025 Full season | Postseason | Dodgers World Series champions | — | Champion ✅ |
 
 #### 2026 Season
 | Date | Body Part | Injury / Event | Severity | Status |
 |---|---|---|---|---|
-| 2026-08-12 | Knees/shoulders/hand/wrist | Fell ~10-12 ft down Royals dugout steps chasing foul ball at Dodger Stadium; no imaging; soreness in multiple body parts | Minor (no imaging needed) | ✓ returned next day  |
-| 2026-08-13 | N/A | Returned to lineup; continued ankle load management | N/A | ✓ returned ✓ |
+| 2026-08-12 | Knees/shoulders/hand/wrist | Fell ~10-12 ft down Royals dugout steps chasing foul ball at Dodger Stadium; no imaging; soreness in multiple body parts | Minor (no imaging needed) | Returned next day ✓ |
+| 2026-08-13 | N/A | Returned to lineup; continued ankle load management | N/A | Returned ✓ |
 | 2026-09-01 | N/A | Active on 28-man roster for expansion | N/A | Active ✓ |
 | 2026-09-04 | N/A | Active, healthy, managing chronic left ankle | N/A | Currently playing ✓ |
-
-### Context — 2025 Season Achievement
-- **2025 World Series Champion** — clinched title with dramatic moments
-- Batting **.317/.400/.586** (estimate derived from stat lines near WS) with career-highs
-- **Career-high 131 RBIs**, 211 hits; slugging and on-base contribution peak
-- Wrote one of the most inspiring free-agent signings on Dodgers, lasting legacy
-- Starred, navigated stomach issues, adiimmune Those The still through monster
-- Faced [ankle arthroscopy to repair right side spurring in right [Partial] ankle discussed Dec 2024]
 
 ### Manager — Dave Roberts Quotes
 - **Aug 27, 2025 (neck stinger):** *"From what I understand, he feels a lot better. There's still some kind of lingering effects, but nothing compromising. It is something that we'll keep an eye on day-to-day, but I feel confident that he can get through it and won't have any setbacks."*
 - **Aug 28, 2025:** *"So yeah, if we can get him through the series, get the day off on Monday, then hopefully that will work."*
 - **Aug 12, 2026 (dugout fall):** *"I think that we really dodged the bullet."*
-- **Aug 2026:** Freeman: *"Kneecaps are sore, shoulder is sore, hand is sore, wrist is sore... I mean, I fell. But I'm in good spirits. I've already cold-tubbed. I've done everything I needed to do to put myself in a position to be able to hopefully play [Thursday]."*
-- Freeman on not having imaging done: *"I said 'Do you want to do a whole-body X-ray?' And he was like 'We can.' But no, I'm OK."*
+
+### Freeman Quotes (Aug 12, 2026 fall)
+- *"Kneecaps are sore, shoulder is sore, hand is sore, wrist is sore. I mean, I fell. But I'm in good spirits. I've already cold-tubbed. I've done everything I needed to do to put myself in a position to be able to hopefully play [Thursday]."
+- *"I said 'Do you want to do a whole-body X-ray?' And he was like, 'We can.' But no, I'm OK."
 
 ### Sources
 - [USA Today — Neck injury Aug 2025](https://www.usatoday.com/story/sports/mlb/2025/08/27/freddie-freeman-injury-update-dodgers/85857745007/)
 - [Dodger Blue — Injury updates Aug 30 2025](https://dodgerblue.com/dodgers-injury-updates-freddie-freeman-tommy-edman-max-muncy-alex-call/2025/08/30/)
-- [Dodgers Nation — Freeman return timeline Mar 18](https://dodgersnation.com/freddie-freeman-provides-update-on-injury-timeline-to-return-to-dodgers/2025/03/18/)
+- [Dodgers Nation — Return timeline Mar 18](https://dodgersnation.com/freddie-freeman-provides-update-on-injury-timeline-to-return-to-dodgers/2025/03/18/)
 - [MLB.com — Returns from wrist HBP scare](https://www.mlb.com/news/freddie-freeman-back-in-dodgers-lineup-after-wrist-hbp-scare)
 - [MLB.com — Hit HBP on left wrist](https://www.mlb.com/news/freddie-freeman-exits-after-hit-by-pitch-on-left-wrist)
 - [LA Times — Dugout fall Aug 12 2026](https://www.latimes.com/sports/dodgers/story/2026-08-12/dodgers-freddie-freeman)
 - [ESPN — Neck nerve issue Aug 2025](https://www.espn.com/mlb/story/_/id/46090686/dodgers-freddie-freeman-sidelined-neck-nerve-issue)
-- [Press Enterprise — Freeman Sidelined with neck issue Aug 27](https://www.pressenterprise.com/2025/08/27/dodgers-freddie-freeman-sidelined-with-neck-nerve-issue/)
-- [Dodgers Nation — Inj. updates Aug 28 | Free agency](https://dodgersnation.com/dodgers-injury-updates-freddie-freeman-hyeseong-kim-max-muncy-more/2025/08/28/)
-- [Dodgers Way — Postseason ankle save](https://dodgersway.com/freddie-freeman-postseason-ankle-injury-might-actually-be-what-saves-his-season)
-- [Sporting News — 4-word injury response](https://www.sportingnews.com/us/mlb/los-angeles-dodgers/news/dodgers-freddie-freeman-offers-4-word-response-harsh-injury/f7b0ac44805fa08d5ef4b148)
-- [Heavy — Cubs game exit](https://heavy.com/sports/mlb/los-angeles-dodgers/reddie-freeman-injury-update-cubs-exit/)
-- [RotoBaller — Returns Friday](https://www.rotoballer.com/player-news/freddie-freeman-returns-from-wrist-injury-on-friday/1904985)
+- [Press Enterprise — Freeman sidelined w/ neck issue](https://www.pressenterprise.com/2025/08/27/dodgers-freddie-freeman-sidelined-with-neck-nerve-issue/)
+- [Dodgers Nation — Inj. updates Aug 28](https://dodgersnation.com/dodgers-injury-updates-freddie-freeman-hyeseong-kim-max-muncy-more/2025/08/28/)
 
 ---
 
@@ -198,38 +188,38 @@
 ```
 2025
 ─────
-Feb        🟡 Acuña: 90-95% post-ACL     |     🟡 Betts: post-viral illness starts (~20 lbs lost)
-Mar        🟡 Betts: wrist fracture + mental health |    🔴 Mar 18: Freeman rib scratch (Tokyo)
-Mar 19     🟢 Freeman returns Tokyo GS2   |     🟡 Acuña: cleared for 2025 season start
-May 26     🔴 Acuña: LEFT ACL TEAR AGAIN (season-ending surgery)
-Jun        🟡 Betts: ankle sprain          |    🔴 Jun 9: Acuña hamstring 1st | Jun 10: IL 
-Jul        🟡 Betts: ~25 lbs viral illness |     stepfather passing   | emotional toll
-Sep        🔴 Acuña: hamstring 2nd entered  |    🟡 Betts oblique gets treated
+Feb        Acuña: 90-95% post-ACL        |     Betts: post-viral illness (~20 lbs lost)
+Mar        Betts: wrist fracture + headspace  |    Acuña cleared for 2025 start
+Mar 18     Freeman rib scratch (Tokyo)
+Mar 19     Freeman returns Tokyo Game 2
+May 26     Acuña LEFT ACL RE-TEAR (season-ending)
+Jun        Betts ankle sprain            |    Acuña hamstring 1st → IL Jun 10
+Jul        Betts viral recovery + 25 lbs   |    stepfather passing
+Sep        Acuña hamstring 2nd           |    Betts oblique treated
 
 2026
 ─────
-Feb        🟡 Acuña cleared spring; rehab spirit high
-Mar 3      🔴 Acuña: L fibula fracture → IL (60-day)
-Apr 5      🔴 Betts: oblique strain vs Nats, 10-day IL
-Apr 8      🟡 Betts: med-ball throws, not swinging yet
-Apr 27     🟡 Betts: rehab target set for May 1-3
-May 11     🟢 Betts ACTIVATED ← optioned Freeland to OKC  | ✓ Returned !!!
-Jun 9      🔴 Acuña: hamstring 2nd; 10-day IL
-Jun 10     🔴 Acuña: IL → rehab assignment starts
-Jul 2      🟢 Betts: wrist soreness resolved in days
-Jul 11     🟡 Betts: lower back stiffness day-to-day (no IL)
-Jul 13     🟡 Acuña: FCL rehab, massive grand slam (423ft, 112.8mph)
-Jul 17     🟡 Acuña: Triple-A Gwinnett rehab assignment
+Feb        Acuña cleared spring, rehab spirit high
+Mar 3      Acuña L fibula fracture → IL
+Apr 5      Betts oblique vs Nats, 10-day IL
+Apr 8      Betts: med-ball only, no hitting yet
+Apr 27     Betts rehab target May 1-3
+May 11     Betts ACTIVATED ← optioned Freeland to OKC  ✓
+Jun 9      Acuña hamstring 2nd → IL
+Jun 10     Acuña rehab assignment starts
+Jul 2      Betts wrist soreness resolves
+Jul 11     Betts lower back stiffness (day-to-day, no IL)
+Jul 13     Acuña FCL rehab, grand slam (423ft/112.8mph)
+Jul 17     Acuña Triple-A Gwinnett transfer
 Jul 18     Weiss: "Won't rule out return before Thursday"
-Jul 19     🟡 Acuña: RF in Gwinnett rehab game
+Jul 19     Acuña RF in Gwinnett rehab game
 Jul 23     Acuña: "Going to ballfield... even more excited"
-Jul 27     🟢 Acuña ACTIVATED ← (confirmed via Baseball Savant | source)
-Jul 31     🟢 Betts: lower back fully resolved
-Aug 12     🟡 Freeman: ~10-12ft fall down Royals dugout steps; multiple soreness; **NO IMAGING NEEDED**
-Aug 13     🟢 Freeman returns to lineup
-Aug-Sep    🟢 Freeman: load management continues for chronic left ankle
-Sep 1      🟢 Freeman: on 28-man roster for expansion day
-Sep 4      🟢🟢🟢 All Three Stars Active! | Betts actively playing SS | Freeman anchoring 1B daily | Acuña back in Braves line-up
+Jul 27     Acuña ACTIVATED ✓                  |    Betts back resolved
+Aug 12     Freeman ~10-12ft fall, dugout steps
+Aug 13     Freeman returns ✓
+Aug-Sep    Freeman: load mgmt continues for ankle
+Sep 1      Roster Expansion — Freeman on 28-man
+Sep 4      ALL THREE: Betts 🟢 | Freeman 🟢 | Acuña 🟢
 ```
 
 ---
@@ -237,7 +227,7 @@ Sep 4      🟢🟢🟢 All Three Stars Active! | Betts actively playing SS | Fr
 ## How to Contribute
 
 1. **Fork** the repository and create a new branch for your changes.
-2. **Update** the `INITIAL-DATA-v2.md` (this file, human-readable) and/or any JSON data file.
+2. **Update** `INITIAL-DATA-v2.md` (this file, human-readable) and/or `initial-data.json` (machine-readable).
 3. **Submit a pull request** with clear description of what changed and why.
 4. Always cross-reference with at least **2 independent sources** from the list below.
 
@@ -260,10 +250,12 @@ Sep 4      🟢🟢🟢 All Three Stars Active! | Betts actively playing SS | Fr
 
 ---
 
-## Also see:
-- [NL-STAR-INJURY-UPDATES-LATEST.md](NL-STAR-INJURY-UPDATES-LATEST.md) — Quick reference card
-- [CONTRIBUTING.md](CONTRIBUTING.md) — How to contribute
-- [SEED-DATA.json](SEED-DATA.json) — Machine-readable dataset
+## See Also
+- [NL-STAR-INJURY-UPDATES-LATEST.md](NL-STAR-INJURY-UPDATES-LATEST.md) — Quick-reference card
+- [INITIAL-DATA.md](INITIAL-DATA.md) — Original v1.0 initial data file (July 2026)
+- [CONTRIBUTING.md](CONTRIBUTING.md) — Community contribution guidelines
+- [RESEARCH-UPDATES.md](RESEARCH-UPDATES.md) — Research log
+- [NL-STAR-INITIAL-INJURIES.md](NL-STAR-INITIAL-INJURIES.md) — Player-by-player summaries
 
 ---
 
